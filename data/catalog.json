@@ -1,0 +1,3356 @@
+{
+  "meta": {
+    "titre": "Catalogue de ressources de l'innovation et de l'entrepreneuriat",
+    "etablissement": "Université Paris-Saclay",
+    "dateMiseAJour": "2026-09-29",
+    "version": "2.0"
+  },
+  "definitions": [
+    {
+      "cle": "formationsPui",
+      "libelle": "Formations PUI (fondateurs)",
+      "texte": "Formations dispensées dans au moins un établissement de l'Université Paris-Saclay faisant partie des fondateurs PUI."
+    },
+    {
+      "cle": "formationsExternes",
+      "libelle": "Formations externes",
+      "texte": "Formations disponibles sur d'autres plateformes ou établissements en dehors du P14."
+    },
+    {
+      "cle": "formateurs",
+      "libelle": "Formateurs",
+      "texte": "Personnes ressources clés, internes ou externes, auxquelles faire appel pour la création de contenus et/ou de formations."
+    },
+    {
+      "cle": "lieux",
+      "libelle": "Lieux de l'innovation",
+      "texte": "Locaux habilités pour réaliser des activités de formation, d'entrepreneuriat et d'innovation."
+    },
+    {
+      "cle": "equipements",
+      "libelle": "Équipements",
+      "texte": "Équipements et technologies disponibles pour la formation, le prototypage, l'entrepreneuriat, etc."
+    },
+    {
+      "cle": "outils",
+      "libelle": "Outils",
+      "texte": "Supports et outils pratiques (fiches, plaquettes, jeux, …)."
+    },
+    {
+      "cle": "bibliographie",
+      "libelle": "Bibliographie",
+      "texte": "Livres, articles, revues, textes et contenus web utilisés comme référence pour la conception de formations."
+    },
+    {
+      "cle": "financements",
+      "libelle": "Financements",
+      "texte": "Appels à projets et dispositifs de financement locaux, régionaux, nationaux, européens et internationaux."
+    },
+    {
+      "cle": "seFormerAvenir",
+      "libelle": "Se former pour l'avenir",
+      "texte": "Programmes structurants de formation à l'innovation, l'entrepreneuriat et les compétences d'avenir."
+    },
+    {
+      "cle": "etablissementsValo",
+      "libelle": "Établissements valorisation",
+      "texte": "Établissements du périmètre et contacts des cellules de valorisation."
+    }
+  ],
+  "collections": {
+    "formationsPui": [
+      {
+        "titre": "Master innovation et valorisation de la recherche",
+        "objectifs": "Design and implement future-focused innovation strategies that can be applied to any industry. Learn alongside a global cohort of like-minded professionals",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Master",
+        "methodologie": "Cours magistraux, TP",
+        "format": "2 jours par semaine",
+        "duree": "1 an",
+        "modalite": "Présentiel",
+        "public": "Bac +4",
+        "pays": "France",
+        "langue": "Français- anglais",
+        "cout": 6000,
+        "contact": "Nicolas Soulié, Anne Plunket",
+        "localisation": "Faculté Jean Monnet",
+        "id": "001"
+      },
+      {
+        "titre": "Management de la R&D et de \nl’innovation",
+        "objectifs": "Panorama des connaissances (théories et méthodologies) allant de la stratégie de R&D d’une \nentreprise à l’ingénierie de développement d’une offre de valeur (produit ou service accompagné de son modèle \néconomique) en passant par la définition de roadmaps marchés et technologies, de plans produits, de la maitrise \ndes coûts de R&D et des projets de développement, ainsi que des processus et problématiques d’innovation \n(incluant la protection de l’innovation, la gestion des compétences, les stratégies de partenariat et d’innovation \nouverte). 1. Découvrir tous les étages de l’entreprise innovante : son écosystème, sa stratégie, sa\nR&D, sa gestion de l’innovation et ses projets de développement de produits / services /\nmodèles économiques nouveaux.\n2. Préparer aux métiers de l’innovation et de l’intraprenariat qui sont des métiers\nrécents en France et en Europe : métiers de directeur innovation, manager-ingénieur de\nl’innovation durable, aux rôles d’interfaces sur la chaine de la valeur (comme responsable\nprojet innovant, responsable du développement de l’innovation ouverte…).\n3. Articuler la stratégie de l’entreprise avec les théories et méthodologies du\nmanagement de l’innovation, du management des technologies, des ingénieries de\ndéveloppement, conception et lancement de produits.",
+        "etablissement": "Centrale Supélec",
+        "niveau": "Cours",
+        "methodologie": "Cours magistraux, TP",
+        "format": "Le cours est composé de 9 séances thématiques de 3h. Chaque séance inclut un TD d’une durée de 30 minutes\nà 1h30",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Bernard Yannou",
+        "mail": "bernard.yannou@centralesupelec.fr",
+        "localisation": "Centrale SupElec",
+        "contributeur": "Bernard Yannou",
+        "id": "002"
+      },
+      {
+        "titre": "Radical innovation Design",
+        "objectifs": "Cet atelier vise à avoir une utilisation poussée de la méthodologie de gestion de projets d’innovation\nRadical Innovation Design, dans le cadre du lancement d’une start-up dans le domaine de la silver\néconomie.\nRadical Innovation Design est une méthodologie de gestion de projets d'innovation, made in CentraleSupélec,\nqui a fait l'objet d'une start-up, d'un jeu sérieux et d'un eBook en accès gratuit (https://doi.org/10.1051/978-2-\n7598-3066-4) qui permet d'accéder à de multiples ressources. La méthodologie en elle-même est qualifiable\nd'ingénierie de l'innovation, car elle introduit de nouveaux concepts, méthodes, et une plateforme informatisée\npour poser un problème d'innovation complexe, cibler les zones d'intérêt qui créent de l'utilité pour les usagers et\nde la profitabilité pour l'entreprise, et \"idéer\" une solution système et son modèle économique optimaux.\nSilver Valley, qui est un regroupement d’acteurs qui fédère près de 300 organisations de la Silver Économie -\nfilière transversale qui répond aux besoins et usages des seniors et de leur entourage -, est partenaire de l’atelier.\nC’est un écosystème unique en Europe qui a pour objectif de préparer la société de la longévité, d’accélérer le\ndéveloppement et la mise sur le marché de solutions innovantes pour favoriser le mieux-vieillir, l’inclusion des\npersonnes et générer croissance et emploi. Silver Valley a notamment développé le dispositif Open Lab : une\ncommunauté de seniors, participant à des séances de co-design, de tests et d’expérimentations des solutions\nportées par les entrepreneurs. CentraleSupélec a participé au développement de Silver Valley, notamment au\ndéveloppement du dispositif d’innovation Scale Up Lab® qui s’inspire de la méthodologie Radical Innovation\ndesign® pour sélectionner et accompagner les start-ups dans leur croissance, expérimentation et réseautage.\nL’atelier consiste à utiliser et améliorer un processus d’étude rapide et systématique d’un potentiel d’innovation\ndans le domaine de la Silver Economie, en utilisant Radical Innovation Design, l’IA générative (ChatGPT) et\ntoutes les études disponibles sur les activités et situations d’usage des personnes âgées. L’atelier sera centré sur\nl’obtention de structurations satisfaisantes des activités des seniors, de cartographies de problèmes ou pain\npoints des activités des seniors, qui à leur tour serviront à orienter les concepteurs de solutions nouvelles et start-\nupers vers le développement de solutions utiles pour « augmenter » l’activité de ces seniors.",
+        "etablissement": "Centrale Supélec",
+        "niveau": "Cours",
+        "methodologie": "Cours magistraux, TP",
+        "format": "L’atelier se compose de 6 séances de 3h.",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Bernard Yannou",
+        "mail": "bernard.yannou@centralesupelec.fr",
+        "localisation": "Centrale SupElec",
+        "contributeur": "Bernard Yannou",
+        "id": "003"
+      },
+      {
+        "titre": "CMA design et transitions",
+        "etablissement": "Centrale Supélec",
+        "methodologie": "Cours magistraux, TP",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Bernard Yannou",
+        "mail": "bernard.yannou@centralesupelec.fr",
+        "localisation": "Centrale SupElec",
+        "contributeur": "Bernard Yannou",
+        "id": "004"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Créer sa landing page sans savoir coder en 48 heures",
+        "etablissement": "Diogale",
+        "methodologie": "Animé par Doudou Diof",
+        "format": "2024-10-16",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "005"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Quelle idée pour créer ton entreprise ?",
+        "etablissement": "Innowide",
+        "methodologie": "Animé par Damien Cuoq",
+        "format": "2024-10-23",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "006"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "De l'idée à l'action : concevoir et lancer votre startup",
+        "etablissement": "Start in Saclay",
+        "format": "2024-11-06",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "007"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Les conseils pour avoir un pitch convaincant",
+        "etablissement": "Association EGEE",
+        "format": "2024-11-13",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "008"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Les outils à connaitre pour son projet d'entreprise",
+        "etablissement": "Design Spot",
+        "methodologie": "Annimé par Yoann Montenot",
+        "format": "2024-11-20",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "009"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Le modéle économique",
+        "etablissement": "Université Paris-Saclay",
+        "format": "2024-11-27",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "010"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Entreprendre en deeptech : défis et opportunités",
+        "etablissement": "Start in Saclay",
+        "format": "2024-12-04",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "011"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Aide à la recherche documentaire pour réaliser une étude de marché",
+        "etablissement": "Université Paris-Saclay",
+        "methodologie": "Animé par Imelda Lemoing",
+        "format": "2025-01-29",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "012"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Débuter sans argent",
+        "etablissement": "Graines de conseil",
+        "methodologie": "Animé par Bertrand De Saint Viance",
+        "format": "2025-02-05",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "013"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Les étapes de la création d'entreprise",
+        "etablissement": "Vallée Sud Grand Paris",
+        "methodologie": "Animé par Farrouk Khenoussi",
+        "format": "2025-02-12",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "014"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Le développement et la construction de sa stratégie sur la propriété intelectuelle",
+        "etablissement": "INPI",
+        "methodologie": "Animé par Sophie Djega Mariadassou",
+        "format": "2025-03-12",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "015"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Accélérateurs et incubateurs : catalyseurs de réussite",
+        "etablissement": "Start in Saclay",
+        "format": "2025-03-19",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "016"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Les stratégies commerciales et les techniques de vente",
+        "etablissement": "Association EGEE",
+        "methodologie": "Animé par Jacques Bonnement",
+        "format": "2025-03-26",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "017"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Accélérer la croissance : les clés pour réussir sa levée de fonds",
+        "etablissement": "Start in Saclay",
+        "format": "2025-04-02",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "018"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Les stratégies marketing",
+        "etablissement": "Association EGEE",
+        "methodologie": "Animé par Jacques Bonnement",
+        "format": "2025-04-09",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "019"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Startups à impact : entreprendre pour un monde meilleur",
+        "etablissement": "Start in Saclay",
+        "format": "2025-04-23",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "020"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Entreprendre autrement : les modéles d'entrepreneuriat alternatifs",
+        "etablissement": "Start in Saclay",
+        "format": "2025-05-14",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "021"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "L'aide au financement pour créer son entreprise",
+        "etablissement": "France Active",
+        "methodologie": "Animé par Chérif Abbou",
+        "format": "2025-05-29",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "022"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Clôture de la série des webinaires",
+        "etablissement": "Alumni",
+        "format": "2025-06-04",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "mail": "carole.poire@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Sophie Dondeyne",
+        "id": "023"
+      },
+      {
+        "titre": "Master 1 et 2 en PI, droit du numérique et de l’espace",
+        "objectifs": "L’objectif poursuivi au sein de la mention Droit de la propriété intellectuelle, du numérique et de l’espace consiste à former des juristes hautement spécialisés, en veillant à garantir l’adéquation des enseignements dispensés aux besoins de la pratique.\nLe déroulement de la formation est conçu pour permettre une pré-spécialisation de l’étudiant dès l’année de Master 1, afin de lui conférer, dans un deuxième temps, la possibilité d’opter, parmi un choix étendu de Masters 2, pour la spécialisation la plus conforme a ses affinités.",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Master 1 et 2",
+        "methodologie": "Cours magistraux, TP",
+        "duree": "2 ans",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Antoine Latreille",
+        "mail": "antoine.latreille@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Antoine Latreille",
+        "id": "024"
+      },
+      {
+        "titre": "M2 Droit de l’innovation et propriété industrielle",
+        "objectifs": "Acquérir l’expertise nécessaire à l’exercice d’une activité professionnelle tournée vers l’innovation et la propriété industrielle, en phase avec la place éminente occupée par les sciences dures au sein du périmètre de\nl’Université Paris-Saclay.\nÀ l’issue de la formation, les étudiants doivent disposer :\n+ de l’ensemble des connaissances théoriques en droit de la propriété industrielle (droit des brevets, droit des dessins et modèles, droit des marques…) et, plus largement, en droit des technologies et de la valorisation des actifs immatériels de l’entreprise (droit de la concurrence, droit des affaires, droit des télécommunications) ;\n+ de connaissances dans les matières techniques, avec une formation pointue en informatique, réseaux et techniques numériques, afin de conférer aux étudiants une compréhension et une maîtrise des outils comme des principes (formation appliquée à l’informatique, connaissance des réseaux…) ;\nAcquérir les compétences indispensables à l’exercice de sa future profession. À cet égard, l’intervention de professionnels au sein de la formation et le stage obligatoire de trois à six mois garantissent une familiarité de l’étudiant avec la technique contractuelle utilisée en droit de la propriété industrielle, ou dans dans les produits et services numériques..\nLes étudiants apprennent également à élaborer des stratégies de propriété intellectuelle, en intégrant dans leur réflexion le coût et la dimension internationale de la protection recherchée.\nPar ailleurs, la capacité de recherche de l’étudiant se trouve également mise à l’épreuve grâce à la rédaction d’un rapport de recherche.\nEnfin, les étudiants bénéficient de cours d’anglais juridique spécialisé, leur permettant de se familiariser avec la terminologie propre à ce champ disciplinaire.",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Master 1",
+        "methodologie": "Cours magistraux, TP",
+        "duree": "1 an",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Antoine Latreille",
+        "mail": "antoine.latreille@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Antoine Latreille",
+        "id": "025"
+      },
+      {
+        "titre": "M2 Droit de la création et du numérique",
+        "objectifs": "Le Master 2 Droit de la création et du numérique (M2 DCN), fondé il y a trois décennies par le Professeur Pierre Sirinelli, est un diplôme pionnier dans l’étude de la confrontation du droit d’auteur aux nouvelles technologies. Il poursuit deux objectifs essentiels :\n+ Offrir une spécialisation en droit d’auteur, saisi dans toutes ses dimensions, y compris les plus contemporaines (logiciels, jeux vidéo, bases de données),\n+ Offrir une spécialisation en droit du numérique (droit des données personnelles, droit des contrats et de la responsabilité, droit pénal spécial des technologies, droit social et TIC).",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Master 2",
+        "methodologie": "Cours magistraux, TP",
+        "duree": "1 an",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Antoine Latreille",
+        "mail": "antoine.latreille@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Antoine Latreille",
+        "id": "026"
+      },
+      {
+        "titre": "M2 Droit des activités spatiales et des télécommunications",
+        "objectifs": "Le master spécialité Droit des activités spatiales et des télécommunications (M2 DAST) a été créé en 2002 à la demande et avec le soutien des milieux professionnels pour satisfaire des\nsecteurs en pleine expansion demandeurs de diplômés hautement qualifiés. Il représentait alors le premier diplôme au monde associant l’étude du droit de l’espace et des\ntélécommunications. Il s’est depuis ouvert au secteur de l’aéronautique. Le M2 DAST propose une formation professionnalisante, interdisciplinaire et internationale à des\nétudiants désireux d’intégrer le secteur des technologies stratégiques : l’espace, l’aéronautique, le numérique et la défense.\nLe master repose sur une pédagogie fondée sur trois piliers.\n+ Formation professionnalisante. Le contenu du Master est conçu en partenariat avec les grandes entreprises et institutions des secteurs de l’espace/aéronautique et des\ntélécommunications/TIC. Les enseignements fondamentaux sont complétés par des séminaires pratiques. Le contact direct et permanent avec le marché du travail est favorisé par une équipe pédagogique majoritairement composée de professionnels (70% des intervenants), des cours dispensés par les futurs employeurs, dans les locaux d’entreprises et d’institutions prestigieuses (50% des cours), des visites et des voyages professionnels en France et à l’étranger, des projets professionnels conduits pour le compte des partenaires du Master, ainsi qu’un réseau international d’anciens étudiants.\n+ Formation interdisciplinaire. La formation répond aux débouchés professionnels en associant le droit à l’étude d’autres disciplines : sciences, ingénierie, économie, gestion et sciences politiques. Le caractère interdisciplinaire de son équipe pédagogique et de ses promotions facilite l’intégration des diplômés au sein des entreprises et des institutions. Cette formation favorise de plus une compréhension rapide et approfondie des dossiers à traiter et une réelle capacité de dialogue avec toutes les composantes, notamment les départements techniques.\n+ Formation internationale. La formation est ouverte sur l’Europe et le monde grâce à ses enseignements combinant une approche nationale et transnationale des problématiques, ses cours dispensés en français et en anglais, son équipe pédagogique multiculturelle (9 nationalités), ses promotions multinationales (le Master 2 a accueilli des étudiants issus de 71 pays) et ses activités à l’international.",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Master 2",
+        "methodologie": "Cours magistraux, TP",
+        "duree": "1 an",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Antoine Latreille",
+        "mail": "antoine.latreille@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Antoine Latreille",
+        "id": "027"
+      },
+      {
+        "titre": "M2 Propriété intellectuelle appliquée",
+        "objectifs": "L’objectif est de dispenser un enseignement aussi bien théorique que pratique, hautement spécialisé en IP (séminaires de propriété littéraire et artistique, cours de propriété industrielle appliquée en droit des marques et des brevets, etc.) comme en IT (droit social et TIC, droit des données personnelles, pratique contractuelle spécialisée). L’équipe pédagogique est composée d’enseignants-chercheurs et de professionnels du\nsecteur.\nLes étudiants sont aptes, dès l’obtention de leur diplôme, à occuper des postes à responsabilité dans le secteur de l’IP/IT.",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Master 2",
+        "methodologie": "Cours magistraux, TP",
+        "duree": "1 an",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Antoine Latreille",
+        "mail": "antoine.latreille@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Antoine Latreille",
+        "id": "028"
+      },
+      {
+        "titre": "M2 Propriété intellectuelle et droit des affaires numériques",
+        "objectifs": "Le Master 2 Propriété intellectuelle et droit des affaires numériques (M2 PIDAN) forme les étudiants à maîtriser les défis juridiques actuels et futurs liés à l’essor des technologies de l’information, s’agissant aussi bien des enjeux théoriques que des pratiques contractuelles, judiciaires et techniques du secteur, afin de répondre à une demande croissante de la pratique contemporaine du droit des affaires national, européen et international. Les étudiants apprennent à identifier les stratégies juridiques de valorisation du patrimoine « numérique » et « intellectuel » des entreprises.A cette fin, le programme des séminaires allie enseignements fondamentaux en droit des affaires et cours spécialisés en propriété intellectuelle et droit du numérique. La formation met également l'accent sur l'acquisition de connaissances interdisciplinaires complémentaires en informatique et en économie notamment, ainsi que sur des enseignements dispensés en anglais. Selon le projet professionnel, les étudiants ont le choix, grâce aux options et aux travaux personnels, de renforcer leur spécialité soit en droit de la propriété intellectuelle soit en droit du numérique.Ce M2 permet de développer les compétences indispensables à une pratique professionnelle performante pour une insertion professionnelle rapide grâce au stage et aux exercices pratiques (négociation de contrats ou la rédaction de jeux d'écriture, participation aux concours de plaidoiries notamment).Ce Master 2 prépare également à une poursuite d'étude en doctorat en insistant sur la formation à la recherche individuelle (élaboration d'un mémoire de recherche de fin d'étude) et collective à l'occasion de chaque séminaire. Une attention particulière est portée à la maîtrise des outils de recherche et notamment des bases de données juridiques ainsi qu'à la participation à de nombreuses manifestations scientifiques.",
+        "id": "029"
+      },
+      {
+        "titre": "M2 Propriété intellectuelle fondamentale et technologies numériques",
+        "objectifs": "Le Master 2 / LLM Propriété intellectuelle fondamentale et technologies numériques (M2/LLM PIFTN) s’intègre dans l’offre de formation complémentaire de la mention Droit de la propriété intellectuelle et du numérique. Il en constitue le parcours international, grâce à un double partenariat, avec l’Université Laval (Québec) et avec l’Université Autonome de Madrid (Espagne).\nL’objectif est de former des juristes ayant des compétences pointues en Intellectual Property / Information Technology (IP/IT), donc à la fois en droit de la propriété intellectuelle, mais aussi en droit du numérique, dans une perspective résolument européenne et internationale. La formation débouche sur la délivrance, à l’issue d’une année d’étude, d’un double diplôme :\nun M2 de l’Université Paris-Saclay et un LLM de l’Université Laval (Québec) ou de l’Université Autonome de Madrid (Espagne), grâce à une mobilité étudiante (semestre 1 en France, semestre 2 au Québec ou en Espagne avec convention de reconnaissance mutuelle pour la moitié du programme).\nLe paiement des droits universitaires (sans surcoût) se fait dans le pays d’inscription initiale pour l’année entière.",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Master 2",
+        "methodologie": "Cours magistraux, TP",
+        "duree": "1 an",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Antoine Latreille",
+        "mail": "antoine.latreille@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Antoine Latreille",
+        "id": "030"
+      },
+      {
+        "titre": "FIE",
+        "objectifs": "Filière Innovation-Entrepreneurs © (FIE) forme les élèves à entreprendre et innover grâce à une pédagogie par projet. 11 000 m2 dédiés à l'innovation et à l'entrepreneuriat technologique en photonique au Bâtiment 503.",
+        "etablissement": "IOGS",
+        "niveau": "élèves avec la vision entrepreneur",
+        "duree": "1 à 4 ans",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "David Olivier Bouchez",
+        "mail": "david-olivier.bouchez@institutoptique.fr",
+        "localisation": "IOGS",
+        "contributeur": "David Olivier Bouchez",
+        "id": "031"
+      },
+      {
+        "titre": "Intelligence et Sécurité économiques",
+        "objectifs": "Formation thématique",
+        "etablissement": "SATT Paris Saclay",
+        "niveau": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "methodologie": "Dispensée dans le Parcours Valo. La formation est enseignée sur demande / chaque thématique peut durer entre 1 heure et 4 heures",
+        "format": "Elle peut durer entre 1 heure et 4 heures",
+        "modalite": "Présentiel ou Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Stéphanie Oger-Roussel",
+        "mail": "stephanie.oger-roussel@satt-paris-saclay.fr",
+        "localisation": "SATT Paris Saclay",
+        "contributeur": "Stéphanie Oger-Roussel",
+        "id": "032"
+      },
+      {
+        "titre": "Veilles et renseignements",
+        "objectifs": "Formation thématique",
+        "etablissement": "SATT Paris Saclay",
+        "niveau": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "methodologie": "La formation est enseignée sur demande / chaque thématique peut durer entre 1 heure et 4 heures",
+        "format": "Elle peut durer entre 1 heure et 4 heures",
+        "modalite": "Présentiel ou Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Stéphanie Oger-Roussel",
+        "mail": "stephanie.oger-roussel@satt-paris-saclay.fr",
+        "localisation": "SATT Paris Saclay",
+        "contributeur": "Stéphanie Oger-Roussel",
+        "id": "033"
+      },
+      {
+        "titre": "Open-innovation",
+        "objectifs": "Formation thématique",
+        "etablissement": "SATT Paris Saclay",
+        "niveau": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "methodologie": "La formation est enseignée sur demande / chaque thématique peut durer entre 1 heure et 4 heures",
+        "format": "Elle peut durer entre 1 heure et 4 heures",
+        "modalite": "Présentiel ou Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Stéphanie Oger-Roussel",
+        "mail": "stephanie.oger-roussel@satt-paris-saclay.fr",
+        "localisation": "SATT Paris Saclay",
+        "contributeur": "Stéphanie Oger-Roussel",
+        "id": "034"
+      },
+      {
+        "titre": "Marketing de l'innovation",
+        "objectifs": "Formation thématique",
+        "etablissement": "SATT Paris Saclay",
+        "niveau": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "methodologie": "La formation est enseignée sur demande / chaque thématique peut durer entre 1 heure et 4 heures",
+        "format": "Elle peut durer entre 1 heure et 4 heures",
+        "modalite": "Présentiel ou Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Stéphanie Oger-Roussel",
+        "mail": "stephanie.oger-roussel@satt-paris-saclay.fr",
+        "localisation": "SATT Paris Saclay",
+        "contributeur": "Stéphanie Oger-Roussel",
+        "id": "035"
+      },
+      {
+        "titre": "Propriété intellectuelle",
+        "objectifs": "Formation thématique",
+        "etablissement": "SATT Paris Saclay",
+        "niveau": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "methodologie": "La formation est enseignée sur demande / chaque thématique peut durer entre 1 heure et 4 heures",
+        "format": "Elle peut durer entre 1 heure et 4 heures",
+        "modalite": "Présentiel ou Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Stéphanie Oger-Roussel",
+        "mail": "stephanie.oger-roussel@satt-paris-saclay.fr",
+        "localisation": "SATT Paris Saclay",
+        "contributeur": "Stéphanie Oger-Roussel",
+        "id": "036"
+      },
+      {
+        "titre": "Transfert de technologie",
+        "objectifs": "Formation thématique",
+        "etablissement": "SATT Paris Saclay",
+        "niveau": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "methodologie": "La formation est enseignée sur demande / chaque thématique peut durer entre 1 heure et 4 heures",
+        "format": "Elle peut durer entre 1 heure et 4 heures",
+        "modalite": "Présentiel ou Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Stéphanie Oger-Roussel",
+        "mail": "stephanie.oger-roussel@satt-paris-saclay.fr",
+        "localisation": "SATT Paris Saclay",
+        "contributeur": "Stéphanie Oger-Roussel",
+        "id": "037"
+      },
+      {
+        "titre": "Business plan",
+        "objectifs": "Formation thématique",
+        "etablissement": "SATT Paris Saclay",
+        "niveau": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "methodologie": "La formation est enseignée sur demande / chaque thématique peut durer entre 1 heure et 4 heures",
+        "format": "Elle peut durer entre 1 heure et 4 heures",
+        "modalite": "Présentiel ou Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Stéphanie Oger-Roussel",
+        "mail": "stephanie.oger-roussel@satt-paris-saclay.fr",
+        "localisation": "SATT Paris Saclay",
+        "contributeur": "Stéphanie Oger-Roussel",
+        "id": "038"
+      },
+      {
+        "titre": "Devenir entrepreneur",
+        "objectifs": "Formation thématique",
+        "etablissement": "SATT Paris Saclay",
+        "niveau": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "methodologie": "La formation est enseignée sur demande / chaque thématique peut durer entre 1 heure et 4 heures",
+        "format": "Elle peut durer entre 1 heure et 4 heures",
+        "modalite": "Présentiel ou Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Stéphanie Oger-Roussel",
+        "mail": "stephanie.oger-roussel@satt-paris-saclay.fr",
+        "localisation": "SATT Paris Saclay",
+        "contributeur": "Stéphanie Oger-Roussel",
+        "id": "039"
+      },
+      {
+        "titre": "ESOS « Entreprenariat en Santé, Orientation et Sensibilisation »",
+        "objectifs": "Le programme ESOS « Entreprenariat en Santé, Orientation et Sensibilisation » a été mis en place par la Faculté de Médecine Paris-Saclay, en collaboration avec la Graduate School Economie et Management , la Graduate School Life Sciences and Health, la Faculté de Pharmacie et le Hub PASREL de l’Université Paris-Saclay.",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Tous Niveaux",
+        "methodologie": "Formation courte, préparatoire aux DU et Masters déjà existants et à venir dans le domaine de l’entrepreneuriat.\nLe programme est structuré en 3 phases : des webinaires de retour d'expérience d'entrepreneurs avec accès aux replays des webinaires des années précédentes, puis une phase de cours abordant les grands principes nécessaires à l'entrepreneuriat et enfin un accompagnement personnalisé pour les étudiants ayant un projet proposé par le Hub PASREL.",
+        "format": "Différentes durées selon le programme",
+        "modalite": "Distanciel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://www.pasrel.universite-paris-saclay.fr/programme-esos/",
+        "contact": "Pascal CORBEL\nLaurence HOFFMANN",
+        "mail": "pascal.corbel@universite-paris-saclay.fr\nlaurence.hoffmann@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Laurence Hoffmann",
+        "id": "040"
+      },
+      {
+        "titre": "ESOS « Entreprenariat en Santé, Orientation et Sensibilisation » - TITRE ERRONE CETTE ACTION EST MENEE PAR LA GS LSH ET NE FAIT PAS PARTIE D'ESOS",
+        "objectifs": "Cafés de la GS LSH - Webinaires",
+        "etablissement": "Université Paris-Saclay",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://www.universite-paris-saclay.fr/actualites/cafes-de-la-gs-lsh",
+        "localisation": "Paris Saclay",
+        "contributeur": "Laurence Hoffmann",
+        "id": "041"
+      },
+      {
+        "titre": "ESOS « Entreprenariat en Santé, Orientation et Sensibilisation » - TITRE ERRONE CETTE ACTION EST MENEE PAR LA GS LSH ET NE FAIT PAS PARTIE D'ESOS",
+        "objectifs": "Les conversations de l'Espace éthique Île-de-France sur l’Intelligence artificielle - 27 janvier 2025 - Webinaire",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://www.espace-ethique.org/actualites/les-conversations-de-lespace-ethique-ile-de-france-saison-1",
+        "localisation": "Paris Saclay",
+        "contributeur": "Laurence Hoffmann",
+        "id": "042"
+      },
+      {
+        "titre": "Deeptech Tour Paris Saclay",
+        "objectifs": "Deeptech Tour Paris Saclay. Au programme : présentation de l’écosystème, session de pitchs, témoignages inspirants, démonstrations de startups deeptech, cocktail, networking.",
+        "etablissement": "BPI France et Université Paris-Saclay",
+        "niveau": "Tous Niveaux",
+        "methodologie": "Pour sa troisième édition, le Deeptech Tour revient à Paris-Saclay pour mettre les projecteurs sur la deeptech. Cette tournée met à l'honneur les forces vives de la deeptech au sein des pôles académiques pour faire émerger des technologies de rupture à fort impact.",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "contributeur": "Cindy AUGUSTO DOS SANTOS",
+        "id": "043"
+      },
+      {
+        "titre": "Global Women's Breakfast 2025",
+        "objectifs": "Global Women's Breakfast 2025 “Accelerating Equity in Science” - 11 février 2025 - Orsay",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Tous Niveaux",
+        "methodologie": "Les Graduate Schools Chimie et Health and Drug Sciences vous invitent à partager un déjeuner à l'occasion du « International Day of Women and Girls in Science » autour de la thématique \"Accelerating Equity in Science\". Ce temps de rencontres et d'échanges se fera autour de 4 ateliers thématiques.\nCet évènement participatif et constructif aura lieu le mardi 11 février 2025 de 12h30 à 14h30 dans le Hall - HM2 du Bâtiment Henri Moissan à Orsay.\nà Programme et inscription sous le lien suivant, cliquez ici !",
+        "format": "2 heures",
+        "modalite": "Présentiel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "mail": "Inscriptions GWB 2025",
+        "id": "044"
+      },
+      {
+        "titre": "Journées scientifiques GS HeaDS et OI Healthi",
+        "objectifs": "Journées scientifiques GS HeaDS et OI Healthi - 11 et 12 février 2025 - Orsay.",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Tous Niveaux",
+        "methodologie": "La Graduate School \"Health and Drug Sciences\" (GS HeaDS) et l'Objet Interdisciplinaire \"Health and Therapeutic Innovation\" (OI HEALTHI) vous invitent à participer à leurs Journées Scientifiques organisées conjointement les 11 et 12 février 2025 à l'Amphi Olivier KAHN au bâtiment Henri Moissan à Orsay.",
+        "format": "2 jours",
+        "modalite": "Présentiel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "id": "045"
+      },
+      {
+        "titre": "Paris-Saclay Summit - Choose Science",
+        "objectifs": "Paris-Saclay Summit, un rendez-vous unique pour questionner l'essentiel et imaginer l'avenir. La 2e édition se tiendra les 12 et 13 février 2025 à EDF Lab. Du mercredi 12 au jeudi 13 février 2025",
+        "etablissement": "Université Paris-Saclay. Coorganisé par Le Point, La région Île-de-France et le Département de l’Essonne",
+        "niveau": "Tous Niveaux",
+        "format": "2 jours",
+        "modalite": "Présentiel",
+        "public": "Tous public",
+        "pays": "France",
+        "langue": "Français",
+        "mail": "Paris-Saclay Summit 2025 - Choose Science",
+        "contributeur": "Cindy AUGUSTO DOS SANTOS",
+        "id": "046"
+      },
+      {
+        "titre": "Genesis Light",
+        "objectifs": "Formation de Sensibilisation à l’entrepreneuriat destinée aux chercheurs lauréats d’un Poc in Labs.",
+        "etablissement": "IncubAlliance",
+        "niveau": "Tous Niveaux",
+        "format": "7 jours",
+        "modalite": "Présentiel",
+        "public": "Exclusif pour les POC in Labs",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 0,
+        "contact": "Arielle Santé",
+        "mail": "https://www.incuballiance.fr/start-up/",
+        "contributeur": "Arielle Santé",
+        "id": "047"
+      },
+      {
+        "titre": "Genesis Lab",
+        "objectifs": "Pré-maturation pour challenger, dérisquer et structurer son projet de startup technologique. Elaboration d'une road map 360°",
+        "etablissement": "IncubAlliance",
+        "niveau": "Tous Niveaux",
+        "format": "3-4 mois",
+        "modalite": "Présentiel",
+        "public": "Acces sur Comité de séléction interne",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Arielle Santé",
+        "mail": "https://www.incuballiance.fr/start-up/",
+        "contributeur": "Arielle Santé",
+        "id": "048"
+      },
+      {
+        "titre": "Impulse",
+        "objectifs": "Incubation et accélération pour devenir une entreprise et accélérer sa commercialisation, sa levée de fonds, son recrutement. Favoriser et accélérer sa croissance",
+        "etablissement": "IncubAlliance",
+        "niveau": "Tous Niveaux",
+        "methodologie": "3 critères de sélection : technologie, porteur de l'équipe et impact",
+        "format": "18 mois à 5 ans",
+        "modalite": "Présentiel",
+        "public": "Acces sur Comité de séléction externe",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 3000,
+        "contact": "Arielle Santé",
+        "mail": "https://www.incuballiance.fr/start-up/",
+        "contributeur": "Arielle Santé",
+        "id": "049"
+      },
+      {
+        "titre": "Des rencontres avec les autres start-up",
+        "objectifs": "Incuballiance organise des Ateliers, rencontres entre start-up, témoignages, etc.",
+        "etablissement": "IncubAlliance",
+        "niveau": "Tous Niveaux",
+        "methodologie": "Selon le programme annuel",
+        "modalite": "Présentiel",
+        "public": "Porteurs de projets innovants",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Arielle Santé",
+        "mail": "https://www.incuballiance.fr/start-up/",
+        "contributeur": "Arielle Santé",
+        "id": "050"
+      },
+      {
+        "titre": "Women in deeptech",
+        "objectifs": "Le bootcamp pour passer de la recherche à l'action ! pour favoriser l’émergence de femmes entrepreneures dans la Deeptech au sein du cluster Paris-Saclay",
+        "etablissement": "IncubAlliance",
+        "niveau": "Tous Niveaux",
+        "methodologie": "Vision et valeurs ; Business model ; négociation ; propriété intellectuelle ; financements et pitch.",
+        "format": "4 jours",
+        "modalite": "Présentiel",
+        "public": "Femme ingénieure, chercheuse, doctorante en poste ou étudiante",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "Arielle Santé",
+        "mail": "https://www.incuballiance.fr/women-in-deeptech/",
+        "contributeur": "Arielle Santé",
+        "id": "051"
+      },
+      {
+        "titre": "10ème Journée d initiatives Pédagogiques",
+        "objectifs": "Créer des objets de formation communs cercle vertueux de l'apprentissage et de la pédagogie. Innovation pédagogique.",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Tous Niveaux",
+        "methodologie": "Journée de rencontre des enseignants et partage d'initiatives.",
+        "format": "1/2 journée",
+        "modalite": "Hybride",
+        "public": "Tous public",
+        "pays": "France",
+        "langue": "Français",
+        "contact": "DIP",
+        "mail": "10ème Journée d initiatives Pédagogiques - YouTube",
+        "id": "052"
+      },
+      {
+        "titre": "Journées Innovation",
+        "objectifs": "Plongez au cœur du processus d’innovation avec le MIT",
+        "etablissement": "Université EVRY",
+        "niveau": "Tous Niveaux",
+        "methodologie": "Cet événement met en lumière les acteurs clés qui font bouger notre écosystème : de l’accompagnement à l’idéation, en passant par le mentorat et le financement.",
+        "format": "2 jours",
+        "duree": "2 jours",
+        "modalite": "Présentiel",
+        "public": "Tous public",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 0,
+        "web": "https://www.univ-evry.fr/index.php?id=19843",
+        "contact": "Président Université EVRY",
+        "mail": "innovation@univ-evry.fr",
+        "localisation": "Université Evry",
+        "contributeur": "Gaëlle Bréau",
+        "id": "053"
+      },
+      {
+        "titre": "Préparer son devenir professionnel - Parcours « Carrières de docteurs : Entrepreneuriat Deeptech »",
+        "objectifs": "Bootcamp Starthèse Start'up Pitch-iD – Module «Innover en SHS : du labo au terrain”»",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Doctorants",
+        "methodologie": "Ce module s’adresse aux doctorant·es en cours de thèse et aux docteur·es en sciences humaines et sociales (diplômé·es depuis moins de 5 ans, promotion 2020-2021), souhaitant se préparer et participer au challenge de pitch Startthèse Start'up Pitch-iD, qui aura lieu le 8 juillet.",
+        "format": "1 jour",
+        "modalite": "Présentiel",
+        "public": "Doctorants",
+        "pays": "France",
+        "langue": "Français",
+        "web": "ADUM",
+        "contact": "Roberta Camera Petriello",
+        "mail": "roberta.camera-petriello@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Maison du Doctorat",
+        "id": "054"
+      },
+      {
+        "titre": "Préparer son devenir professionnel - Parcours « Carrières de docteurs : Entrepreneuriat Deeptech »",
+        "objectifs": "Bootcamp Starthèse Start'up Pitch-iD – Module ”De la recherche à la scène :perfectionnez votre pitch”",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Doctorants",
+        "methodologie": "Ce module s’adresse aux doctorant·es en cours de thèse et aux docteur·es (diplômé·es depuis moins de 5 ans, promotion 2020-2021), ayant déjà suivi les formations d’idéation ou avancée du parcours Entrepreneuriat Deeptech — ou toute autre formation équivalente dans ce domaine — et souhaitant se préparer à participer au challenge de pitch Starthèse Start’up Pitch-iD, qui se tiendra le 8 juillet.\nLes deux séances de formation vous permettrons de :\n● valoriser sa recherche en un projet entrepreneurial\n● articuler son projet autour d’un impact social\n● communiquer et vulgariser efficacement pour convaincre",
+        "modalite": "Présentiel",
+        "public": "Doctorants",
+        "pays": "France",
+        "langue": "Français",
+        "web": "ADUM",
+        "contact": "Roberta Camera Petriello",
+        "mail": "roberta.camera-petriello@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Maison du Doctorat",
+        "id": "055"
+      },
+      {
+        "titre": "Préparer son devenir professionnel - Parcours « Carrières de docteurs : Entrepreneuriat Deeptech »",
+        "objectifs": "Deeptech Entrepreneurship – Ideation Module: “Build a Successful Value Proposition'",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Doctorants",
+        "methodologie": "By the end of the workshop, early-stage researchers will have gained key insights into scientific ideation and applied them to their own thesis or research results. This marks the first step toward bringing out an innovative product idea or launching a start-up, with dedicated and supportive guidance.",
+        "modalite": "Présentiel",
+        "public": "Doctorants",
+        "pays": "France",
+        "langue": "English",
+        "web": "ADUM",
+        "contact": "Roberta Camera Petriello",
+        "mail": "roberta.camera-petriello@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Maison du Doctorat",
+        "id": "056"
+      },
+      {
+        "titre": "Préparer son devenir professionnel - Parcours « Carrières de docteurs : Entrepreneuriat Deeptech »",
+        "objectifs": "Parcours Entrepreneuriat Deeptech – Module Avancé «Construire un projet entrepreneurial deeptech »",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Doctorants",
+        "methodologie": "L’objectif de cette formation est de vous permettre de maîtriser les étapes clés pour développer un projet entrepreneurial basé sur vos travaux de recherche.\nÀ travers des ateliers interactifs, vous aurez l’opportunité de :\n• Comprendre le processus de transition d’une technologie vers des marchés applicatifs ;\n• Structurer votre projet de manière claire et convaincante, afin de capter l’intérêt des organismes de financement dès les premières étapes ;\n• Élaborer une feuille de route (roadmap) sur 18 mois, alignée avec les actions stratégiques nécessaires pour propulser votre projet ;\n• Appréhender les mécanismes et les exigences des dossiers financiers afin de solliciter des fonds pour la maturation de votre projet.\n• Prendre conscience de l’expérience vécue durant 4,5 jours sous l’angle des compétences et appétences et se projeter dans la suite.",
+        "format": "1 jour",
+        "modalite": "Présentiel",
+        "public": "Doctorants",
+        "pays": "France",
+        "langue": "Français",
+        "web": "ADUM",
+        "contact": "Roberta Camera Petriello",
+        "mail": "roberta.camera-petriello@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Maison du Doctorat",
+        "id": "057"
+      },
+      {
+        "titre": "Préparer son devenir professionnel - Parcours « Carrières de docteurs : Entrepreneuriat Deeptech »",
+        "objectifs": "Parcours Entrepreneuriat Deeptech – Module « Docteur.e en Start-up » Session 15",
+        "etablissement": "Université Paris-Saclay",
+        "niveau": "Doctorants",
+        "methodologie": "Ce module de deux jours permet de comprendre :\n• si la création d’entreprise est une voie professionnelle qui peut convenir ou non aux participants\n• les similitudes et les différences entre le travail d’un chercheur et celui d’un entrepreneur valorisant un actif scientifique ou technologique\n• les différents domaines clés sur lesquels doit travailler un entrepreneur pour construire la cohérence de son projet : maturité technologique, marchés, stratégie de propriété intellectuelle, financement, équipe…\n• l’écosystème du Plateau de Saclay qui peut aider les porteurs de projets\n• les raisons qui justifient l’engouement croissant depuis quelques années de la création d’entreprises “Deeptech” (issues de laboratoires de recherche)\n• comment construire une proposition de valeur à partir de résultats de recherche, afin de répondre à un besoin sociétal identifié et de valoriser concrètement les travaux menés au sein du laboratoire",
+        "format": "2 jours",
+        "modalite": "Présentiel",
+        "public": "Doctorants",
+        "pays": "France",
+        "langue": "Français",
+        "web": "ADUM",
+        "contact": "Roberta Camera Petriello",
+        "mail": "roberta.camera-petriello@universite-paris-saclay.fr",
+        "localisation": "Paris Saclay",
+        "contributeur": "Maison du Doctorat",
+        "id": "058"
+      },
+      {
+        "titre": "Parcours Valorisation de projets de recherche innovants",
+        "objectifs": "Sensibilisation à la valorisation de la recherche :\n- 6 à 12 modules proposés : \" Introduction à la valorisation de la recherche » ; « Sensibilisation à la Propriété intellectuelle (PI) » ; « Les aspects numériques de la PI » ; « Marketing de l’innovation » ; « Partenariats et organisation contractuelle »; « Transfert de technologie » ; « Management de projets » ; « Les bases de la négociation » ; « Veille et Intelligence économique et technologique » ; « Communiquer et agir en leader » ; « Sensibilisation au design\" ; « Sensibilisation à la création d’entreprise »",
+        "etablissement": "UPSaclay",
+        "niveau": "Doctorants tous niveaux, personnels administratifs, personnels des laboratoires, des GS, et extérieurs",
+        "methodologie": "Journées",
+        "format": "6 à 12 journées",
+        "duree": "6 à 12 jours",
+        "modalite": "Hybride",
+        "public": "Doctorants tous niveaux, personnels administratifs, personnels des laboratoires, des GS, et extérieurs",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://www.universite-paris-saclay.fr/parcours-de-formation-valorisation-de-projets-de-recherche-innovants-du-concept-au-marche",
+        "contact": "Roberta Camera Petriello",
+        "mail": "camille.queinnec@universite-paris-saclay.fr",
+        "contributeur": "Camille Queinnec",
+        "id": "059"
+      },
+      {
+        "titre": "Assemblée générales du Hub PASREL",
+        "objectifs": "Une fois par an le Hub PASREL organise sa journée scientifique à l'occasion de son assemblée générale annuelle. C'est l'occasion de présentations et d'échanges autour des innovations technologiques en santé",
+        "etablissement": "Université Paris Saclay",
+        "niveau": "Tous Niveaux",
+        "methodologie": "Présentations et échanges autour des enjeux et des défis du developpement d'iinnovations technologiques en santé (propriété intelectuelle, études de marché, design, SHS, etc)",
+        "format": "1/2 journée",
+        "modalite": "Présentiel",
+        "public": "Etudiants (Master, Doctorants) Chargé d'affaires valorisation Chercheurs Start-up PME/ETI",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 0,
+        "contact": "Laurence Hoffman",
+        "mail": "https://www.pasrel.universite-paris-saclay.fr/actualites/1ere-ag-hub-pasrel/\n\nhttps://www.pasrel.universite-paris-saclay.fr/actualites/2e-ag-hub-pasrel/",
+        "localisation": "Université Paris Saclay",
+        "contributeur": "Laurence Hoffmann",
+        "id": "060"
+      },
+      {
+        "titre": "MaturAction",
+        "objectifs": "“Maturaction” est un projet pédagogique qui a pour visée de former les étudiants à la gestion de projets innovants et à la création de start-up deeptech. L'objectif initial du programme initié dans le cadre de DTAPS est d'associer des étudiants à des projets innovants et concrets des laboratoires.\nIl s’agit, pour les étudiants, de réfléchir à la manière dont des résultats scientifiques pourraient devenir des applications industrielles ou des produits. Les étudiants évaluent différentes possibilités d’usages et valident leur potentiel via des études de marché et de faisabilité, des analyses de modèles d’affaires possibles, l’identification de modes de financements ou de verrous juridiques et réglementaires\nLa poursuite de ce projet pédagogique se réalise à l'UVSQ en lien avec le référent entrepreneuriat de l'UVSQ",
+        "etablissement": "Université de Versailles Saint-Quentin-en-Yvelines",
+        "niveau": "M1 et M2",
+        "methodologie": "Le programme est effectué en lien avec le référent entrepreneuriat de l'UVSQ",
+        "format": "Sourcing des projets au niveau des laboratoires par la direction de la valorisation\nPrésentation au sein des formations\nSoutenance des étudiants",
+        "duree": "Travail et échange avec le porteur scientifique sur la durée d'un semestre environ",
+        "modalite": "Travail et échange avec le porteur scientifique puis restitution dans le cadre d'une soutenance",
+        "public": "Etudiants, référent entrepreneuriat de l'UVSQ, direction de la valorisation, porteurs de projets concrets au sein des laboratoires de l'UVSQ",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 0,
+        "web": "https://www.uvsq.fr/maturaction-le-programme-de-formation-des-etudiants-a-lentrepreneuriat",
+        "contact": "Direction de la valorisation de l'UVSQ Armelle Kouma",
+        "mail": "valorisation@uvsq.fr",
+        "localisation": "Différents sites de l'UVSQ",
+        "contributeur": "Armelle Kouma",
+        "id": "061"
+      },
+      {
+        "titre": "Start-up Games",
+        "objectifs": "Afin de sensibiliser les étudiants à l'entrepreneuriat, des start up games sont proposés plusieurs fois par an.\nIl s'agit, sous forme de défi par équipe, dans un temps limité de prototyper un projet entrepreneurial selon un scénario et un objectif définis, autour d'une thématique précise. Les étudiants sont accompagnés tout au long de l’atelier par des entrepreneurs passionnés issus de l’incubateur Matrice, qui font découvrir les méthodologies de l’entrepreneuriat.",
+        "etablissement": "Université de Versailles Saint-Quentin-en-Yvelines",
+        "niveau": "Master",
+        "methodologie": "Les ateliers sont organisés par la direction de la valorisation de l'UVSQ avec le soutien de MATRICE",
+        "format": "Format sur 1/2 journée\nEnviron 2 sessions par an",
+        "duree": "1/2 journée par session",
+        "modalite": "Défi entre équipes sur une thématique donnée dans un temps limité avec session de pitchs",
+        "public": "Les étudiants d'une filière désignée de l'UVSQ généralement de niveau Master",
+        "pays": "France",
+        "langue": "Français",
+        "cout": "Accompagnement Matrice\nPrestation CROUS",
+        "web": "https://www.uvsq.fr/startup-games-lentrepreneuriat-sinvite-chez-les-etudiants-du-master-eads\nhttps://www.uvsq.fr/startup-game-sur-le-theme-management-qualite-securite-environnement-en-partenariat-avec-matrice",
+        "contact": "Direction de la valorisation de l'UVSQArmelle Kouma",
+        "mail": "valorisation@uvsq.fr",
+        "localisation": "Différents sites de l'UVSQ",
+        "contributeur": "Armelle Kouma",
+        "id": "062"
+      },
+      {
+        "titre": "Journée EMERGENCE",
+        "objectifs": "Journée EMERGENCE des projets de valorisation de la recherche @CentraleSupélec",
+        "etablissement": "Centrale Supélec",
+        "niveau": "Tous publics",
+        "methodologie": "Savoir si une idée ou une production issue de vos travaux a un potentiel de\nvalorisation ? Faut-il s’engager dans la valorisation de la recherche ? Caractériser sa propriété intellectuelle: Brevet et/ou secrets ? Etude d’antériorité. Choisir un marché et décliner une proposition de valeur, Planifier son business development, Identifier les usagers et leurs besoins, Planifier : des prototypes aux produits, Quand est-on prêt à créer sa startup ? Effectuer son bilan de potentiel de valorisation, Être accompagné\nJournée le 7 octobre 2025 au Repaire (RdC Bat Bouygues) de 9h00 à 16h30 – Accueil à 8h30, repas inclus\nInscription obligatoire avant le 1er octobre",
+        "format": "1 journée",
+        "duree": "1 journée",
+        "modalite": "Présentiel",
+        "public": "Chercheur, doctorant, post-doc, IR, IE Centrale Supélec",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 0,
+        "web": "Journée EMERGENCE des projets de valorisation de la recherche @CentraleSupélec",
+        "contact": "Bernard Yannou",
+        "id": "063"
+      },
+      {
+        "titre": "Pépite PEIPS",
+        "objectifs": "ETUDIANTS : Pôle de l'Entrepreneuriat et de l'Innovation à Paris-Saclay pour les étudiants",
+        "etablissement": "Pépite PEIPS",
+        "niveau": "Etudiants",
+        "methodologie": "PEPITE, le pôle dédié aux jeunes entreprenants",
+        "format": "Programme annuel",
+        "modalite": "Présentiel",
+        "public": "Etudiants",
+        "pays": "France",
+        "langue": "Français",
+        "cout": "OUI",
+        "web": "https://www.universite-paris-saclay.fr/formation/entrepreneuriat-etudiant/pepite-peips",
+        "contact": "Mehdia BELKAID – Coordinatrice entrepreneuriat étudiant - PEPITE PEIPS",
+        "localisation": "https://pepite-peips.pepitizy.fr/fr/pepite",
+        "contributeur": "Mehdia BELKAID",
+        "id": "064"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "TITRE de la formation",
+        "etablissement": "Qui est le formateur",
+        "niveau": "pour quel profil",
+        "methodologie": "Description",
+        "format": "DATE",
+        "modalite": "Distanciel",
+        "public": "Etudiants DU",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGZiZWIzZjctMWE0Yi00YmI4LTk2ZTctNjA5ZGM3NGMwOTgw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268cdfebb-157b-4846-ba2f-d196a9124ac0%2522%252c%2522Oid%2522%253a%25222aa70631-91e8-4b12-b01e-79459d41d6b5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=195361cc-271b-4f88-be91-e82a4d57ad9d&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "contact": "Carole Poiré",
+        "id": "065"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Un système microfluidique innovant pour la culture cellulaire",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel·le·s de l’écosystème entrepreneurial : les étapes de la création d’entreprise, trouver une idée, le design thinking, le business model…",
+        "format": "2025-10-22",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "066"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Les clés pour être réactif pour innover en moins de 5 minutes",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "067"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat : Le développement et la construction de sa stratégie sur la propriété intellectuelle",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2025-11-12",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "068"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Un procédé de revallorisation du gaspillage alimentaire en engrais et biocarburants",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2025-11-19",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "069"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Quelle idée pour créer son entreprise ?",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2025-11-26",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "070"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "L'aide à la recherche documentaire pour réaliser une étude de marché",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2025-12-03",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "071"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Une solution d'IA pour fluidifier la télé-ophtalmologie et détecter précocement les risques oculaires",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2025-12-10",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "072"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Approche design",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2025-12-17",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "073"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Une technologie optique deeptech pour révolutionner le traitement des maladies cutanées",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-01-07",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "074"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Le modèlé économique",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-01-15",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "075"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Un projet entrepreneurial qui automatise la création de semelles sur-mesure pour les rendre accessibles à tous",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-01-21",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "076"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Débuter sans argent",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-01-28",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "077"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Une plateforme pour aider les étudiants et jeunes actifs à maîtriser simplement leurs finances",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel·le·s de l’écosystème entrepreneurial : les étapes de la création d’entreprise, trouver une idée, le design thinking, le business model…",
+        "format": "2026-02-04",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "078"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Les étapes de la création d'entreprise",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-02-11",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "079"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Des ateliers culturels avec des animations fun et des activités fédératrices",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-02-25",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "080"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Une deeptech qui décarbone grâce à l'optimisation de la photosynthèse et transforme la biomasse en engrais organique",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-03-11",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "081"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Des enzymes mangeuses de polluants",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-03-18",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "082"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "Une approche pour transformer une simple présence en ligne en véritable aventure digitale",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-03-25",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "083"
+      },
+      {
+        "titre": "Les Midis de l'entrepreneuriat",
+        "objectifs": "La démarche d'innovation",
+        "niveau": "Etudiants",
+        "methodologie": "Des interventions thématiques de professionnel 05/11/25",
+        "format": "2026-04-01",
+        "modalite": "Distanciel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "contributeur": "Sophie Seuron",
+        "id": "084"
+      },
+      {
+        "titre": "Design Spot",
+        "objectifs": "Journée professionnelle : Design et recherche",
+        "niveau": "Tous",
+        "methodologie": "L’APCI et le Design Spot de l’Université Paris-Saclay proposent une journée professionnelle sur les liens entre design, recherche, innovation et stratégie.",
+        "format": "2026-03-10",
+        "modalite": "Présentiel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "web": "https://www.designspot.fr/evenements/journee-professionnelle-design-et-recherche",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "contributeur": "Sophie Seuron",
+        "id": "085"
+      },
+      {
+        "titre": "Design Spot",
+        "objectifs": "Raconter la bio-inspiration : de la recherche au grand public",
+        "niveau": "Tous",
+        "methodologie": "Documentaire, animation, design et scénographie — projections et débat autour de l’exposition L’énergie du Vivant",
+        "format": "2026-03-17",
+        "modalite": "Présentiel",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "web": "https://www.designspot.fr/",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "contributeur": "Sophie Seuron",
+        "id": "086"
+      },
+      {
+        "titre": "Design Spot",
+        "objectifs": "L'énergie du vivant : Événement de clôture et table ronde",
+        "niveau": "Tous",
+        "methodologie": "L’exposition L’énergie du Vivant se conclut par une rencontre réunissant chercheurs et designers autour de la bio-inspiration et des sciences du vivant.",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "web": "https://www.designspot.fr/evenements/evenement-de-cloture",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "contributeur": "Sophie Seuron",
+        "id": "087"
+      }
+    ],
+    "formationsExternes": [
+      {
+        "titre": "Enseigner avec le jeu",
+        "objectifs": "Découvrez la manière dont les jeux peuvent servir d’agents pivots pour l’engagement des apprenants et l’acquisition de compétences.",
+        "etablissement": "Fun mooc Unicamp",
+        "niveau": "Micro certification",
+        "methodologie": "On line",
+        "format": "3 semaines",
+        "duree": "12 heures",
+        "modalite": "10 h asynchrones, 2 h synchrones",
+        "public": "Aucun pré requis",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 480,
+        "web": "https://www.fun-mooc.fr/fr/cours/enseigner-avec-le-jeu/",
+        "contact": "Jérôme Legrix-Pagès",
+        "localisation": "Université de Caen Normandie",
+        "id": "001"
+      },
+      {
+        "titre": "Développer la posture entrepreneuriale",
+        "objectifs": "Venez découvrir comment établir un plan d'action utile à l'atteinte de votre objectif de vous lancer avec la bonne posture dans votre projet d'entreprise !",
+        "etablissement": "Fun mooc Unicamp",
+        "niveau": "Micro certification",
+        "methodologie": "On line",
+        "format": "4 semaines",
+        "duree": "20 heures",
+        "modalite": "Asynchrone",
+        "public": "Aucun pré requis",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 250,
+        "web": "https://www.fun-mooc.fr/fr/cours/developper-la-posture-entrepreneuriale/",
+        "contact": "Armelle Basquin Marit",
+        "localisation": "Université de Lille et du Littoral Côte d’Opale, Hubhouse et PEPITE.",
+        "id": "002"
+      },
+      {
+        "titre": "Scénariser un parcours d'apprentissage",
+        "objectifs": "Scénarisez votre enseignement pour gagner en cohérence pédagogique et permettre l'atteinte des objectifs fixés.",
+        "etablissement": "Fun mooc Unicamp",
+        "niveau": "Micro certification",
+        "methodologie": "On line",
+        "format": "7 semaines",
+        "duree": "10 heures",
+        "modalite": "Asynchrone",
+        "public": "Aucun pré requis",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 500,
+        "web": "Scénariser un parcours d'apprentissage - Cours - FUN MOOC (fun-mooc.fr)",
+        "contact": "Morgane Almerge, Michaël Canu",
+        "localisation": "Université de Perpignan Via Domitia",
+        "id": "003"
+      },
+      {
+        "titre": "Se former à la ludopédagogie",
+        "objectifs": "Venez vous former à la ludopédagogie, découvrir l’utilisation du jeu dans un contexte de formation et comment l’intégrer.",
+        "etablissement": "Fun mooc Unicamp",
+        "niveau": "Micro certification",
+        "methodologie": "On line",
+        "format": "6 semaines",
+        "duree": "30 heures",
+        "modalite": "27 h asynchrones et 3 h synchrones",
+        "public": "Aucun pré requis",
+        "pays": "France",
+        "langue": "Français",
+        "cout": 750,
+        "web": "https://www.fun-mooc.fr/fr/cours/se-former-a-la-ludopedagogie/",
+        "contact": "Jérôme Legrix-Pagès",
+        "localisation": "Université de Caen Normandie",
+        "id": "004"
+      },
+      {
+        "titre": "Oxford Venture Builder",
+        "objectifs": "programme for all members of the University of Oxford - including students, staff, faculty members and researchers - who are looking to develop their business ideas, whether individually or as a team.",
+        "etablissement": "Oxford",
+        "niveau": "Short programme",
+        "methodologie": "On site. Three-day in-person bootcamp, Weekly sessions and mentorship, each Wednesday for five weeks, You will be invited to attend after hours sessions on various business-related topics. During this period, you will be matched with mentors to help you develop your ideas and tackle your challenges. Pitching night, pitch your ideas to our network. This is also a chance to access further support or funding.",
+        "format": "5 semaines",
+        "public": "Aucun pré requis",
+        "pays": "England",
+        "langue": "English",
+        "cout": "Gratuit",
+        "web": "https://www.sbs.ox.ac.uk/research/centres-and-initiatives/entrepreneurship-centre/oxford-venture-builder",
+        "contact": "Oxford Saïd Entrepreneurship Centre _ EnSpire Oxford",
+        "id": "005"
+      },
+      {
+        "titre": "Fabriquer l'innovation",
+        "objectifs": "Comment se fabrique concrètement l’innovation, et en particulier l’innovation de rupture ? Ce Mooc mobilise des objets des collections du Musée des arts et métiers pour faire comprendre les processus de l’innovation.",
+        "etablissement": "CNAM",
+        "niveau": "MOOC",
+        "methodologie": "Ce cours est en accès libre. Il ne propose ni forum ni animation et ne délivre pas d'attestation, de badge ou de certificat.",
+        "format": "5 semaines",
+        "duree": "8 heures",
+        "modalite": "Rythme: ~1h30/semaine",
+        "public": "Aucun pré requis",
+        "pays": "France",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "web": "https://www.fun-mooc.fr/fr/cours/fabriquer-linnovation/",
+        "contact": "FUN MOOC",
+        "localisation": "CNAM",
+        "id": "006"
+      },
+      {
+        "titre": "Intelligence artificielle pour et par les enseignants",
+        "objectifs": "Explorer et soutenir l'utilisation éclairée de l'IA dans l'éducation.",
+        "etablissement": "INRIA",
+        "niveau": "MOOC",
+        "methodologie": "Dans le cadre du projet européen AI4T Artificial Intelligence for teachers",
+        "format": "1 semaine",
+        "duree": "3 heures",
+        "public": "Aucun pré requis",
+        "pays": "France",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "web": "https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/",
+        "id": "007"
+      },
+      {
+        "titre": "Travailler dans un fablab",
+        "objectifs": "Habilitation pour travailler dans les machines du FABLAB CN2 de la Cité des Sciences",
+        "etablissement": "Cité des Sciences",
+        "niveau": "Initiation et habilitation",
+        "methodologie": "Ouverture du FABLAB en OpenLab\nLes mardis, mercredis, vendredis & samedis (hors vacances scolaires)\nLes mardis, mercredis, jeudis, vendredis & samedis (pendant vacances scolaires)\nde 14h30 à 17h30\nLes initiations (Laser et Brodeuse) se font les mercredis et samedis à partir de 10h30\nPour les initiations 3D, merci de nous envoyer un email et de nous expliquer votre projet. Un jour et une heure de formation vous sera transmis après analyse de votre besoin.\nLes habilitations (Laser, 3D et Brodeuse) se font les vendredis à partir de 10h30\nLes réservations des machines (avec habilitations) se font pendant les OpenLab",
+        "format": "1 jour",
+        "duree": "3 heures",
+        "modalite": "Présentiel selon programmation",
+        "public": "Aucun pré requis",
+        "pays": "France",
+        "langue": "Français",
+        "cout": "Gratuit",
+        "web": "https://carrefour-numerique.cite-sciences.fr/#!/",
+        "contact": "CITE DES SCIENCES",
+        "mail": "https://mon-compte.cite-sciences.fr/inscription?origin=fabmanager",
+        "localisation": "LA VILLETTE",
+        "id": "008"
+      },
+      {
+        "titre": "Master PIC projet, innovation conception",
+        "objectifs": "Le Master PIC s’articule autour de cinq grandes composantes qui incarnent à la fois son originalité et sa vocation :\n\nLe Projet de Master: une situation d’innovation concrète en entreprise où l’étudiant est intégré tout au long du cursus en temps réel\nLe tutorat: un dispositif pédagogique tripartite entre l’étudiant, un tuteur enseignant et le tuteur entreprise pour permettre d’articuler de manière continue les concepts théoriques et l’expérience pratique\nDes enseignements: sur les théories et méthodes toutes orientées sur l’innovation : projet, organisation, stratégie, financement, design, créativité, marketing,…\nUne expérience internationale, à la découverte d’un écosystème d’innovation dans un pays particulièrement emblématique en terme d’innovation\nUn cycle de visites industrielles, montrant la réalité de l’innovation, de la créativité à la production et la distribution, au sein de l’écosystème français.",
+        "etablissement": "Ecole Politechnique",
+        "methodologie": "La pédagogie combine des formats variés: cours magistral, étude de cas, pédagogie active, serious game, atelier, challenge, conférence, témoignage de praticiens, etc.",
+        "format": "1 an",
+        "duree": "Plein temps",
+        "modalite": "Présentiel. Learning by doing",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://masterpic.fr/cursus/programme/",
+        "id": "009"
+      },
+      {
+        "titre": "OI iNanoTheRad",
+        "objectifs": "Assemblée générale OI iNanoTheRad - 11 février 2025 - Villejuif\nL’Assemblée Générale d’iNanoTheRad aura lieu le 11 février 2025 de 10h à 12h à Gustave Roussy.\nAu programme, une présentation d’iNanoTheRad suivie de discussions thématiques sur les innovations en radiothérapie.",
+        "etablissement": "Université Paris-Saclay",
+        "id": "010"
+      },
+      {
+        "titre": "ICURe",
+        "objectifs": "The Innovate UK ICURe Programme gives researchers the chance to turn ground-breaking research into investment-ready spin-out companies and license agreements.",
+        "etablissement": "Innovate UK",
+        "methodologie": "We provide funding and personalised support to test the commercial potential of an idea – while enabling researchers take their first steps into the world of business.",
+        "format": "4 stages",
+        "duree": "Au fil de l'eau",
+        "pays": "UK",
+        "langue": "English",
+        "web": "https://iuk-business-connect.org.uk/programme/icure/",
+        "id": "011"
+      },
+      {
+        "titre": "investin.paris saclay",
+        "objectifs": "Chef d’entreprise, un métier ?",
+        "etablissement": "Le 30",
+        "format": "Atelier",
+        "pays": "France",
+        "langue": "Français",
+        "web": "Chef d’entreprise, un métier ? – Communauté d'agglomération Paris-Saclay",
+        "contact": "Pierre Henri MULTON | ASPASIE",
+        "mail": "le30@paris-saclay.fr",
+        "id": "012"
+      },
+      {
+        "titre": "Techinnov",
+        "objectifs": "Les acteurs de l’innovation se réunissent autour de rendez-vous d’affaires le 27 mars 2025 au Parc Floral de Paris",
+        "etablissement": "CCI Essonne CCI Ile de France",
+        "niveau": "Seminaire",
+        "methodologie": "Hybride",
+        "format": "1 jour",
+        "duree": "JEUDI 27 MARS 2025 - PARC FLORAL DE PARIS",
+        "pays": "France",
+        "langue": "Français",
+        "web": "Techinnov 2025 | Une journée 100% business & innovation",
+        "id": "013"
+      },
+      {
+        "titre": "MIT",
+        "objectifs": "Free online courses from Massachusetts Institute of Technology",
+        "etablissement": "USA",
+        "niveau": "MOOC",
+        "methodologie": "MITx courses embody the inventiveness, openness, rigor and quality that are hallmarks of MIT, and many use materials developed for MIT residential courses in the Institute's five schools and 33 academic disciplines. Browse MITx courses below.",
+        "format": "On line",
+        "duree": "Au fil de l'eau",
+        "pays": "USA",
+        "langue": "English",
+        "web": "https://www.edx.org/school/mitx",
+        "id": "014"
+      },
+      {
+        "titre": "HARVARD",
+        "objectifs": "Free online courses from Harvard",
+        "etablissement": "USA",
+        "niveau": "MOOC",
+        "methodologie": "551 online free courses from Harvard",
+        "format": "On line",
+        "duree": "Au fil de l'eau",
+        "pays": "USA",
+        "langue": "English",
+        "web": "https://pll.harvard.edu/catalog",
+        "id": "015"
+      },
+      {
+        "titre": "HEC",
+        "objectifs": "Free online courses from HEC",
+        "etablissement": "France",
+        "niveau": "MOOC",
+        "methodologie": "Nombreux cours gratuits et payants pour obtention d'un certificat",
+        "format": "On line",
+        "duree": "Au fil de l'eau",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://www.hec.edu/fr/programmes-online/moocs",
+        "id": "016"
+      },
+      {
+        "titre": "POLYTECHNIQUE",
+        "objectifs": "Free online courses from Ecole Polytechnique",
+        "etablissement": "France",
+        "niveau": "MOOC",
+        "methodologie": "Présentation des cours en ligne gratuits et ouverts à tous de l'Ecole polytechnique",
+        "format": "On line",
+        "duree": "Au fil de l'eau",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://www.polytechnique.edu/teaching-learning/",
+        "id": "017"
+      },
+      {
+        "titre": "BPI France",
+        "objectifs": "Les deeptech plateforme de formations",
+        "etablissement": "France",
+        "niveau": "MOOC",
+        "methodologie": "Développer ses compétences avec BPI France. Bpifrance Université vous accompagne ! L’entrepreneur ne doit jamais cesser d’apprendre tout au long de son parcours. Les objectifs ? Comprendre ses associés et ses équipes, rester à jour dans son domaine d’expertise, acquérir une nouvelle compétence clé pour le projet, comprendre ses partenaires…",
+        "format": "On line",
+        "duree": "Au fil de l'eau",
+        "pays": "France",
+        "langue": "Français",
+        "web": "Se former à l’entrepreneuriat deeptech",
+        "id": "018"
+      },
+      {
+        "titre": "AUNEGE Université Numérique",
+        "objectifs": "Cours en ligne formation entrepreneuriat",
+        "etablissement": "France",
+        "niveau": "MOOC",
+        "methodologie": "La plate-forme Moodle de l'Université Numérique est un lieu de mutualisation de ressources éducatives libres.",
+        "format": "On line",
+        "duree": "Au fil de l'eau",
+        "pays": "France",
+        "langue": "Français",
+        "web": "https://luniversitenumerique.fr/ressources/fun-ressources/",
+        "id": "019"
+      },
+      {
+        "titre": "Réseau CURIE",
+        "objectifs": "La journée des sensibilisateurs",
+        "etablissement": "France",
+        "niveau": "Journée",
+        "methodologie": "ÉDITION 2026 : Et si l'impact était la meilleure porte d'entrée vers la valorisation ? Sensibiliser autrement, détecter plus tôt.",
+        "format": "Présentiel",
+        "duree": "Annuel",
+        "pays": "France",
+        "langue": "Français",
+        "web": "La journée des sensibilisateurs | Réseau C.U.R.I.E.",
+        "id": "020"
+      },
+      {
+        "titre": "COURSERA",
+        "objectifs": "Cours en ligne",
+        "etablissement": "USA",
+        "niveau": "Variable",
+        "methodologie": "Diférentes thématiques",
+        "format": "On line",
+        "duree": "Au fil de l'eau",
+        "pays": "USA",
+        "langue": "English",
+        "web": "https://www.coursera.org/courseraplus/?utm_content=ad_b2c_emea_24-11_coursera-plus_fr-local_gg_fr_fr&utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_coursera_ftcof_courseraplus_cx_dr_bau_gg_sem_pr_fr_fr_m_hyb_24-11_x&campaignid=21962872997&adgroupid=172152784478&device=c&keyword=coursera&matchtype=e&network=g&devicemodel=&creativeid=723451402783&assetgroupid=&targetid=kwd-36262515261&extensionid=&placement=&gad_source=1&gad_campaignid=21962872997&gbraid=0AAAAADdKX6YTJ6uaPeGy9Rc6NYUuHMDzM&gclid=Cj0KCQjw54nRBhDCARIsAMcY_SDTW7KIMyFXNQE48TIaiUqif04XJ81SyKLJK1Nuu8IWfhP3BOGMueEaAg0QEALw_wcB",
+        "id": "021"
+      }
+    ],
+    "formateurs": [
+      {
+        "thematique": "Droit des contrats",
+        "description": "Parcours Valo. Formation en propriété intellectuelle et contrats de recherche",
+        "etablissement": "Université Paris-Saclay",
+        "fonction": "Responsable Pôle Partenariat Valorisation (PPV) DIREV / enseignante master",
+        "origine": "Interne",
+        "contact": "Soizic Lefeuvre, Camille Quenec",
+        "mail": "soizic.lefeuvre@universite-paris-saclay.fr",
+        "rolePui": "Fondateur",
+        "id": "001"
+      },
+      {
+        "thematique": "Sensibilisation à la PI",
+        "description": "Parcours Valo",
+        "methodologie": "module théorique et cas pratique",
+        "etablissement": "Université Paris-Saclay",
+        "fonction": "DIREV, juristes - agents formateurs",
+        "origine": "Interne",
+        "contact": "Salomé Petroff, Charlotte Guerel",
+        "mail": "camille.queinnec@universite-paris-saclay.fr",
+        "web": "https://www.universite-paris-saclay.fr/parcours-de-formation-valorisation-de-projets-de-recherche-innovants-du-concept-au-marche",
+        "rolePui": "Fondateur",
+        "contributeur": "CQ",
+        "id": "002"
+      },
+      {
+        "thematique": "Transferts de technologies",
+        "description": "Parcours Valo",
+        "methodologie": "module théorique et cas pratique",
+        "etablissement": "Université Paris-Saclay",
+        "fonction": "DIREV, chargés affaires - agents formateurs",
+        "origine": "Interne",
+        "contact": "Antoine Brian, Elisa Paredes",
+        "mail": "camille.queinnec@universite-paris-saclay.fr",
+        "web": "https://www.universite-paris-saclay.fr/parcours-de-formation-valorisation-de-projets-de-recherche-innovants-du-concept-au-marche",
+        "rolePui": "Fondateur",
+        "contributeur": "CQ",
+        "id": "003"
+      },
+      {
+        "thematique": "Autres modules Parcours Valo",
+        "description": "Parcours Valo",
+        "methodologie": "module théorique et cas pratique",
+        "etablissement": "Université Paris-Saclay",
+        "fonction": "personnels du CERDI, de la SATT, d'IncubAlliance, du Design Spot,",
+        "origine": "Interne",
+        "contact": "PV25",
+        "mail": "camille.queinnec@universite-paris-saclay.fr",
+        "web": "https://www.universite-paris-saclay.fr/parcours-de-formation-valorisation-de-projets-de-recherche-innovants-du-concept-au-marche",
+        "rolePui": "Fondateur",
+        "contributeur": "CQ",
+        "id": "004"
+      },
+      {
+        "thematique": "ERC",
+        "description": "Mette Skadstraat Consultante pour la formation et préparation à l'ERC",
+        "methodologie": "Webinaires, préparation aux oraux, relectures de documents, oraux blancs",
+        "etablissement": "Yellow research",
+        "fonction": "Consultant",
+        "origine": "Externe",
+        "contact": "Amanda Nieto",
+        "web": "https://www.yellowresearch.nl/",
+        "rolePui": "Autre",
+        "id": "005"
+      },
+      {
+        "thematique": "Éthique et innovation : comment intégrer l'IA Act dans sa stratégie d'innovation ?",
+        "description": "AI ACT Cette session en partenariat avec le Hub France IA vise à fournir aux TPE, PME et ETI les outils essentiels pour se lancer dans l'aventure de l'IA avec confiance.",
+        "methodologie": "A créer",
+        "etablissement": "Hub France IA",
+        "fonction": "Responsable des affaires européennes et réglementaires",
+        "origine": "Externe",
+        "contact": "Chloé PLÉDEL",
+        "web": "BIG BPI Masterclass",
+        "rolePui": "Autre",
+        "id": "006"
+      },
+      {
+        "thematique": "Éthique et innovation : comment intégrer l'IA Act dans sa stratégie d'innovation ?",
+        "description": "Cette session en partenariat avec le Hub France IA vise à fournir aux TPE, PME et ETI les outils essentiels pour se lancer dans l'aventure de l'IA avec confiance.",
+        "methodologie": "A créer",
+        "etablissement": "Bpifrance",
+        "fonction": "Responsable de l'acceleration IA - Direction du digital",
+        "contact": "Pierre JARRIJON",
+        "web": "https://evenements.bpifrance.fr/big-2024/fr/onlinesession/8e167e6f-812d-ef11-86c3-002248863087",
+        "rolePui": "Autre",
+        "id": "007"
+      },
+      {
+        "thematique": "Master / Licence",
+        "description": "Droit du numérique et de l’espace/ Droit de l’innovation et propriété industrielle/Droit, Sciences & Innovation",
+        "methodologie": "En attente infos",
+        "etablissement": "Université Paris-Saclay",
+        "fonction": "Vice-président Patrimoine & Infrastructures/Doyen honoraire/\nChercheur au Cerdi",
+        "origine": "Interne",
+        "contact": "Antoine Latreille",
+        "mail": "antoine.latreille@universite-paris-saclay.fr",
+        "id": "008"
+      },
+      {
+        "thematique": "Créer un cours sur FUN",
+        "description": "Création de MOOC et SPOOC France Universités Numérique",
+        "etablissement": "France Universités Numérique",
+        "fonction": "Directeur technique et chef de projet",
+        "origine": "Externe",
+        "contact": "Cédric Bassette",
+        "mail": "cedric.bassette@fun-mooc.fr",
+        "web": "https://www.fun-mooc.fr/fr/",
+        "rolePui": "Autre",
+        "id": "009"
+      },
+      {
+        "thematique": "Doctorants",
+        "description": "Médiation scientifique",
+        "methodologie": "jours / rémunérés sur le même barême 32 jours au plus",
+        "etablissement": "Université Paris-Saclay",
+        "fonction": "Doctorants étudiants",
+        "id": "010"
+      },
+      {
+        "thematique": "Créer sa landing page sans savoir coder en 48 heures",
+        "methodologie": "A créer",
+        "etablissement": "Diogale",
+        "origine": "Externe",
+        "contact": "Animé par Doudou Diof",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Autre",
+        "id": "011"
+      },
+      {
+        "thematique": "Quelle idée pour créer ton entreprise ?",
+        "methodologie": "A créer",
+        "etablissement": "Innowide",
+        "origine": "Externe",
+        "contact": "Animé par Damien Cuoq",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Autre",
+        "id": "012"
+      },
+      {
+        "thematique": "De l'idée à l'action : concevoir et lancer votre startup",
+        "methodologie": "A créer",
+        "etablissement": "Start in Saclay",
+        "origine": "Interne",
+        "contact": 0,
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "013"
+      },
+      {
+        "thematique": "Les conseils pour avoir un pitch convaincant",
+        "methodologie": "A créer",
+        "etablissement": "Association EGEE",
+        "origine": "Externe",
+        "contact": 0,
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Autre",
+        "id": "014"
+      },
+      {
+        "thematique": "Les outils à connaitre pour son projet d'entreprise",
+        "methodologie": "A créer",
+        "etablissement": "Design Spot",
+        "origine": "Interne",
+        "contact": "Annimé par Yoann Montenot",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "015"
+      },
+      {
+        "thematique": "Le modéle économique",
+        "methodologie": "A créer",
+        "etablissement": "Université Paris-Saclay",
+        "origine": "Interne",
+        "contact": 0,
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "016"
+      },
+      {
+        "thematique": "Entreprendre en deeptech : défis et opportunités",
+        "methodologie": "A créer",
+        "etablissement": "Start in Saclay",
+        "origine": "Interne",
+        "contact": 0,
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "017"
+      },
+      {
+        "thematique": "Aide à la recherche documentaire pour réaliser une étude de marché",
+        "methodologie": "A créer",
+        "etablissement": "Université Paris-Saclay",
+        "origine": "Interne",
+        "contact": "Animé par Imelda Lemoing",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "018"
+      },
+      {
+        "thematique": "Débuter sans argent",
+        "methodologie": "A créer",
+        "etablissement": "Graines de conseil",
+        "origine": "Externe",
+        "contact": "Animé par Bertrand De Saint Viance",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Autre",
+        "id": "019"
+      },
+      {
+        "thematique": "Les étapes de la création d'entreprise",
+        "methodologie": "A créer",
+        "etablissement": "Vallée Sud Grand Paris",
+        "origine": "Externe",
+        "contact": "Animé par Farrouk Khenoussi",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Autre",
+        "id": "020"
+      },
+      {
+        "thematique": "Le développement et la construction de sa stratégie sur la propriété intelectuelle",
+        "methodologie": "A créer",
+        "etablissement": "INPI",
+        "origine": "Externe",
+        "contact": "Animé par Sophie Djega Mariadassou",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Autre",
+        "id": "021"
+      },
+      {
+        "thematique": "Accélérateurs et incubateurs : catalyseurs de réussite",
+        "methodologie": "A créer",
+        "etablissement": "Start in Saclay",
+        "origine": "Interne",
+        "contact": 0,
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "022"
+      },
+      {
+        "thematique": "Les stratégies commerciales et les techniques de vente",
+        "methodologie": "A créer",
+        "etablissement": "Association EGEE",
+        "origine": "Externe",
+        "contact": "Animé par Jacques Bonnement",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Autre",
+        "id": "023"
+      },
+      {
+        "thematique": "Accélérer la croissance : les clés pour réussir sa levée de fonds",
+        "methodologie": "A créer",
+        "etablissement": "Start in Saclay",
+        "origine": "Interne",
+        "contact": 0,
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "024"
+      },
+      {
+        "thematique": "Les stratégies marketing",
+        "methodologie": "A créer",
+        "etablissement": "Association EGEE",
+        "origine": "Externe",
+        "contact": "Animé par Jacques Bonnement",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "id": "025"
+      },
+      {
+        "thematique": "Startups à impact : entreprendre pour un monde meilleur",
+        "methodologie": "A créer",
+        "etablissement": "Start in Saclay",
+        "origine": "Interne",
+        "contact": 0,
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "026"
+      },
+      {
+        "thematique": "Entreprendre autrement : les modéles d'entrepreneuriat alternatifs",
+        "methodologie": "A créer",
+        "etablissement": "Start in Saclay",
+        "origine": "Interne",
+        "contact": 0,
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Fondateur",
+        "id": "027"
+      },
+      {
+        "thematique": "L'aide au financement pour créer son entreprise",
+        "methodologie": "A créer",
+        "etablissement": "France Active",
+        "origine": "Externe",
+        "contact": "Animé par Chérif Abbou",
+        "mail": "Contacter Sophie Dondeyne DFR",
+        "rolePui": "Autre",
+        "id": "028"
+      },
+      {
+        "thematique": "Serious game: l'année de l'innovation",
+        "methodologie": "Avec de droits de licence d'utilisation",
+        "etablissement": "Centrale Supelec",
+        "origine": "Interne",
+        "contact": "Bernard Yannou",
+        "id": "029"
+      },
+      {
+        "thematique": "Ikigai - Games for Citizens",
+        "description": "Innovation par les jeux",
+        "methodologie": "A créer",
+        "etablissement": "Ikigai - Games for Citizens",
+        "fonction": "Responsable de formation, d'animation de communauté et de prospection",
+        "origine": "Externe",
+        "contact": "Florian Delcourt",
+        "mail": "formation.animation@ikigai.games",
+        "web": "https://www.gfc.ikigai.games/",
+        "rolePui": "Autre",
+        "contributeur": "tel 0620853103",
+        "id": "030"
+      },
+      {
+        "thematique": "Design Thiking",
+        "description": "Atelier spécifique sur le Design Thinking l'Atelier Universel",
+        "methodologie": "Atelier",
+        "etablissement": "L'Atelier Universel",
+        "origine": "Externe",
+        "contact": "Xavier Auffret",
+        "mail": "xavier.auffret@atelier-universel.com",
+        "web": "atelier-universel.com",
+        "id": "031"
+      },
+      {
+        "thematique": "Design Thiking",
+        "description": "Le Design Thinking légèrement abordé lors de l'atelier \"c'est quoi le design ?\".",
+        "methodologie": "Atelier",
+        "etablissement": "Design Spot",
+        "fonction": "Directeur Design Spot",
+        "origine": "Interne",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "id": "032"
+      },
+      {
+        "thematique": "Soft skills",
+        "description": "Mon CV en 180 segondes JIP 2026",
+        "methodologie": "Atelier",
+        "etablissement": "MCU Biotechnologies - Association France Biotech",
+        "fonction": "Directrice adjointe Formation Graduate School Health and Drug Sciences",
+        "origine": "Interne",
+        "contact": "Isabelle Turbica",
+        "mail": "isabelle.turbica@universite-paris-saclay.fr",
+        "id": "033"
+      },
+      {
+        "thematique": "Soft skills",
+        "description": "Mon CV en 180 segondes JIP 2026",
+        "methodologie": "Atelier",
+        "etablissement": "GS LSH- Association France Biotech",
+        "fonction": "GS LSH",
+        "origine": "Interne",
+        "contact": "Patricia Uguen",
+        "mail": "patricia.uguen@universite-paris-saclay.fr",
+        "id": "034"
+      }
+    ],
+    "lieux": [
+      {
+        "nom": "21st",
+        "description": "l’accélérateur de start-up de CentraleSupélec, accompagne les élèves-ingénieures et élèvesingénieurs, les étudiantes et étudiants dans le développement et l’évolution de leurs projets.",
+        "etablissement": "Centrale Supélec",
+        "web": "https://lafabrique.centralesupelec.fr/",
+        "contact": "Bernard Yannou",
+        "mail": "bernard.yannou@centralesupelec.fr",
+        "id": "001"
+      },
+      {
+        "nom": 503,
+        "description": "11 000 m2 dédiés à l'innovation et à l'entrepreneuriat technologique en photonique. Lié directement avec la Filière Innovation-Entrepreneurs © (FIE) forme les élèves à entreprendre et innover grâce à une pédagogie par projet.",
+        "etablissement": "IOGS",
+        "web": "https://www.institutoptique.fr/entreprises-et-innovation/les-centres-entrepreneuriaux-503/formation-par-lentrepreunariat#:~:text=La%20FIE%2C%20c'est%20%3A&text=Un%20enseignement%20sur%20mesure%20propos%C3%A9,l'entrepreneuriat%20technologique%20en%20photonique.",
+        "contact": "David Olivier Bouchez",
+        "id": "002"
+      },
+      {
+        "nom": "Design spot",
+        "description": "Le point de rencontre entre recherche, innovation et design à Paris-Saclay.",
+        "etablissement": "Université Paris Saclay",
+        "web": "https://www.designspot.fr/",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "contributeur": "Marine Perez",
+        "id": "003"
+      },
+      {
+        "nom": "C2N",
+        "description": "Plateforme d'Innovation en Micro et Nano-Technologies (PIMENT). La plateforme a été organisée en quatre pôles principaux correspondant aux technologies clés : la lithographie, la gravure, le dépôt de couches minces et la mesure et le contrôle. La plateforme PIMENT, comme le reste de la Centrale de Technologie, fait partie de RENATECH, le réseau national des Centrales de Technologies du domaine des micro-nanotechnologies piloté par le CNRS.",
+        "etablissement": "Université Paris Saclay",
+        "web": "https://piment.c2n.universite-paris-saclay.fr/fr/",
+        "contact": "Benoît Belier",
+        "id": "004"
+      },
+      {
+        "nom": "LUMEN",
+        "description": "Bibliothèque, salles el lieux de réunion. Expositions, médiation scientifique, accès à des ouvrages tout public tels des BD, des romans ou des guides touristiques, et spécialisés pour la recherche scientifique",
+        "etablissement": "Université Paris Saclay",
+        "web": "https://www.destination-paris-saclay.com/fr/fiche/equipement/le-lumen-gif-sur-yvette_TFO6737489/",
+        "contact": "CONTACT GENERIQUE",
+        "mail": "evenementiel.lumen@universite-paris-saclay.fr",
+        "contributeur": "Attention la page principale n'est pas accessible donc le lien est sur destination Paris Saclay",
+        "id": "005"
+      },
+      {
+        "nom": "LE FABLAB DU CN2",
+        "description": "La Cité des sciences Paris. Initiés par Neil Gershenfeld, professeur au Massachusetts Institute of Technology (MIT), les Fab Labs (Fabrication Laboratory) sont des lieux ouverts à tou·te·s et destinés à l’apprentissage et l’expérimentation.",
+        "etablissement": "Cité des sciences Paris",
+        "web": "https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/fab-lab",
+        "id": "006"
+      },
+      {
+        "nom": "Bâtiment 440 – Diapason\naux besoins des projets.",
+        "description": "Diapason offre la location de ses locaux, nus et en l’état, pour une parfaite adaptabilité aux besoins des projets.",
+        "id": "007"
+      },
+      {
+        "nom": "Fablab Paris Saclay",
+        "description": "Digiscope est un réseau de plateformes pour la visualisation interactive de grandes quantités de données et de calculs complexes. Laboratoire de fabrication numérique de l’université, est dédié à la recherche scientifique et à son support, à l’enseignement universitaire et à la formation des professionnels",
+        "etablissement": "Université Paris Saclay",
+        "web": "http://www.digiscope.fr/fr",
+        "contact": "Romain di Vozzo",
+        "mail": "romain.di-vozzo@universite-paris-saclay.fr",
+        "contributeur": "info@digiscope.fr",
+        "id": "008"
+      },
+      {
+        "nom": "La Fabrique",
+        "description": "Fablab pour les étudiants et enseignants. Prototypage, acculturation, expertise et accompagnement. le fablab de CentraleSupélec, accompagne les porteurs de projets dans leurs phases\nd’analyse, d’études, de conception, de prototypage-maquettage et d’industrialisation.",
+        "etablissement": "Centrale Supélec",
+        "web": "https://lafabrique.centralesupelec.fr/",
+        "contact": "Bernard Yannou",
+        "mail": "bernard.yannou@centralesupelec.fr",
+        "id": "009"
+      },
+      {
+        "nom": "Food’InnLab",
+        "description": "la plateforme de collaboration d’AgroParisTech, associe recherche, enseignement et start-up.",
+        "etablissement": "AgroParisTech",
+        "contact": "Grégoire Burgé",
+        "id": "010"
+      },
+      {
+        "nom": "Genopole",
+        "description": "est le premier biocluster en France dédié aux biotechnologies appliquées à la santé,\nl’environnement, la foodtech, l’agritech et la bio-industrie.",
+        "id": "011"
+      },
+      {
+        "nom": "IncubAlliance",
+        "description": "L’incubateur deeptech du territoire Paris-Saclay, soutient les projets d’entrepreneuriats technologiques innovants provenant de l’université ou d’entreprises.",
+        "etablissement": "IncubAlliance",
+        "contact": "Arielle Santé",
+        "id": "012"
+      },
+      {
+        "nom": "Innov’Lab",
+        "description": "C'est le lieu de conseil en conception et fabrication, et d’assistance à la création de prototypes",
+        "id": "013"
+      },
+      {
+        "nom": "Inria Start-up Studio",
+        "description": "Inria Start-up Studio est le programme d’accompagnement et de financement pour les start-up\ndeeptech numériques.",
+        "etablissement": "INRIA",
+        "id": "014"
+      },
+      {
+        "nom": "L’Institut Vedecom – mobiLAB",
+        "description": "L’Institut Vedecom – mobiLAB comprend des espaces de recherche et de formation, des ateliers et des laboratoires entièrement dédiés aux nouvelles mobilités.",
+        "id": "015"
+      },
+      {
+        "nom": "Photonic Fablab",
+        "description": "Photonic Fablab est une plateforme de prototypage de l’Institut d’Optique Graduate School dédiée au\ndéveloppement et à la phase de pré-industrialisation d’un produit.",
+        "contact": "David Olivier Bouchez",
+        "id": "016"
+      },
+      {
+        "nom": "PASREL",
+        "description": "PASREL est un réseau de laboratoires de recherche de l’Université Paris-Saclay (objet interdisciplinaire Hub PASREL), d’établissements de santé et une équipe d’animation pilotée par le professeur Vincent Lebon. En 2027, cette équipe d’animation s’installera dans le bâtiment PASREL nouvellement construit à côté de l’Hôpital de Paris-Saclay",
+        "contact": "Vincent Lebon",
+        "id": "017"
+      },
+      {
+        "nom": "La scène de recherche",
+        "description": "La Scène de recherche est un théâtre professionnel de 160 places, niché au cœur de l'ENS Paris-Saclay. \nElle fait dialoguer les arts, les sciences et les technologies à travers une programmation foisonnante en salle et hors les murs (théâtre, danse, magie nouvelle, cirque…), des ateliers de pratiques artistiques pour tous les publics et des projets d’action culturelle dans les établissements scolaires du territoire.",
+        "web": "https://ens-paris-saclay.fr/scene-de-recherche",
+        "mail": "+ 33 1 81 87 50 00",
+        "id": "018"
+      },
+      {
+        "nom": "Territoire Paris Saclay",
+        "description": "Cartographie des lieux d’innovation\net des start-up de Paris-Saclay",
+        "etablissement": "EPAPS",
+        "web": "http://paris-saclay-startup.com/map/index.html#/",
+        "contact": "Frédéric Devaivre",
+        "mail": "frederic.devaivre@oin-paris-saclay.fr",
+        "id": "019"
+      },
+      {
+        "nom": "Paris-Saclay Hardware Accelerator (PSHA)",
+        "description": "Propose des programmes immersifs et intégrés afin d’accélérer dans les meilleures conditions la réalisation des projets",
+        "etablissement": "PSHA",
+        "web": "https://www.lafrenchfab.fr/entreprise/paris-saclay-hardware-accelerator/",
+        "contact": "MOINAT Alain",
+        "mail": "contact@psha.fr",
+        "contributeur": "+33 (0)1 64 48 32 32",
+        "id": "020"
+      },
+      {
+        "nom": "Farm'inlab",
+        "id": "021"
+      }
+    ],
+    "equipements": [
+      {
+        "type": "Tous les équipements",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "DIREV POLE PAST",
+        "web": "https://www.pluginlabs-universiteparissaclay.fr/",
+        "contact": "Bruno Bost",
+        "id": "001"
+      },
+      {
+        "type": "Imprimante 3 D",
+        "etablissement": "Centrale Supelec",
+        "localisation": "Batiment central La Fabrique",
+        "id": "002"
+      },
+      {
+        "type": "Lithographies électroniques, optiques/UV et émergentes",
+        "etablissement": "CNRS Paris saclay",
+        "localisation": "C2N - Plateforme PIMENT",
+        "web": "https://piment.c2n.universite-paris-saclay.fr/fr/",
+        "contact": "Benoît Belier",
+        "id": "003"
+      },
+      {
+        "type": "Dépôts métal et diélectrique, croissance électrolytique, traitements thermiques",
+        "etablissement": "CNRS Paris saclay",
+        "localisation": "C2N - Plateforme PIMENT",
+        "web": "https://piment.c2n.universite-paris-saclay.fr/fr/",
+        "contact": "Benoît Belier",
+        "id": "004"
+      },
+      {
+        "type": "Gravures sèche et humide, chimie",
+        "etablissement": "CNRS Paris saclay",
+        "localisation": "C2N - Plateforme PIMENT",
+        "web": "https://piment.c2n.universite-paris-saclay.fr/fr/",
+        "contact": "Benoît Belier",
+        "id": "005"
+      },
+      {
+        "type": "Microscopies électroniques et optiques, Back-End, characterisations",
+        "etablissement": "CNRS Paris saclay",
+        "localisation": "C2N - Plateforme PIMENT",
+        "web": "https://piment.c2n.universite-paris-saclay.fr/fr/",
+        "contact": "Benoît Belier",
+        "id": "006"
+      },
+      {
+        "type": "Equipements et machines du FABLAB CN2 (découpeuses laser, imprimantes 3D, brodeuses, podcast , son...)",
+        "etablissement": "Cite des Sciences",
+        "localisation": "La Villette",
+        "web": "https://carrefour-numerique.cite-sciences.fr/#!/",
+        "id": "007"
+      },
+      {
+        "type": "WILDER: Mur d'écrans très haute résolution multitactile avec système de suivi de mouvements.",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/wilder",
+        "id": "008"
+      },
+      {
+        "type": "WILD; Mur d'écrans ultra haute résolution avec système de suivi de mouvements.",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/wild",
+        "id": "009"
+      },
+      {
+        "type": "EVE: Très grand espace immersif, multi-sensorimoteur et multi-utilisateur",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/eve",
+        "id": "010"
+      },
+      {
+        "type": "PIXLS: Grand mur d'écrans multitactile",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/pixls",
+        "id": "011"
+      },
+      {
+        "type": "IRIS : Mur d'écrans multitactile de taille intermédiaire.",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/iris",
+        "id": "012"
+      },
+      {
+        "type": "SHIVA : Grand mur d'image stéréoscopique",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/shiva",
+        "id": "013"
+      },
+      {
+        "type": "Mandelbrot: Très grand écran stéréoscopique dans une configuration de salle de classe.",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/mandelbrot",
+        "id": "014"
+      },
+      {
+        "type": "MIRE : Grand mur d'image stéréoscopique dans une configuration incurvée.",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/mire",
+        "id": "015"
+      },
+      {
+        "type": "Sinapse : Powerwall 4K avec affichage 3D et table tactile",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/sinapse",
+        "id": "016"
+      },
+      {
+        "type": "VIKI : Environment immersif 5 faces, avec tracking et 2 bras haptiques",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/viki",
+        "id": "017"
+      },
+      {
+        "type": "FABLAB DIGISCOPE | LISN | UPSACLAY : Fablab Digiscope | LISN | UPSaclay est le Laboratoire de Design appliqué à la Fabrication Numérique et le Tiers-Lieux de Université Paris-Saclay.",
+        "etablissement": "Université Paris Saclay",
+        "localisation": "Fablab Paris Saclay",
+        "web": "http://www.digiscope.fr/fr/platforms/fablab",
+        "id": "018"
+      }
+    ],
+    "outils": [
+      {
+        "type": "Programme Oser pour innover",
+        "description": "Site web",
+        "etablissement": "PUI",
+        "web": "Programme \"Oser pour innover\" | Université Paris-Saclay",
+        "contact": "Monica Henao",
+        "mail": "formation.innovation@universite-paris-saclay.fr",
+        "contributeur": "Monica Henao",
+        "id": "001"
+      },
+      {
+        "type": "Programme Oser pour innover",
+        "description": "LinkedIn",
+        "etablissement": "PUI",
+        "web": "(25) Post | LinkedIn",
+        "contact": "Monica Henao",
+        "mail": "formation.innovation@universite-paris-saclay.fr",
+        "contributeur": "Monica Henao",
+        "id": "002"
+      },
+      {
+        "type": "Programme Oser pour innover",
+        "description": "INSCRIPTION au programme",
+        "etablissement": "PUI",
+        "web": "Inscription programme OSER POUR INNOVER",
+        "contact": "Monica Henao",
+        "mail": "formation.innovation@universite-paris-saclay.fr",
+        "contributeur": "Monica Henao",
+        "id": "003"
+      },
+      {
+        "type": "Plaquette",
+        "description": "L’Université Paris-Saclay, actrice majeure de l’innovation",
+        "etablissement": "Univesité Paris Saclay",
+        "contact": "Cindy AUGUSTO DOS SANTOS",
+        "mail": "cindy.augusto-dos-santos@universite-paris-saclay.fr",
+        "fonction": "Chargée de communication innovation",
+        "id": "004"
+      },
+      {
+        "type": "Boîte à outils - Actions Marie Sklodowska-Curie",
+        "description": "Kits de montage : tous les documents clefs pour une proposition réussie ! Journées d’information, Formations et ateliers, Conseils pour la rédaction d'une proposition, Tutoriels vidéos - Comment compléter la part A d'une proposition ?",
+        "etablissement": "Ministère de l'Enseignement Supérieur",
+        "web": "https://www.horizon-europe.gouv.fr/boite-outils-actions-marie-sklodowska-curie-27980",
+        "contact": "Eugénia Shadlova",
+        "mail": "eugenia.shadlova@recherche.gouv.fr",
+        "fonction": "Point de Contact National et Représentante au Comité de Programme\n\nActions Marie Sklodowska-Curie",
+        "contributeur": "33 1 55 55 83 71",
+        "id": "005"
+      },
+      {
+        "type": "Les innovations de notre quotidien issues de la recherche publique",
+        "description": "Jeu| Site créé par le Réseau Curie",
+        "etablissement": "Réseau Curie",
+        "web": "https://www.mon-quotidien-avec-la-recherche-publique.fr/les-innovations-de-notre-quotidien",
+        "id": "006"
+      },
+      {
+        "type": "Vidéo innovation 1 LinkedIn",
+        "description": "Episode 1: Comprendre l'innovation à l'Université Paris Saclay Le transfert de technologie",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "https://www.linkedin.com/posts/universit-paris-saclay_comprendre-linnovation-%C3%A0-luniversit%C3%A9-paris-saclay-activity-7259610453931180033-9T_H?utm_source=share&utm_medium=member_desktop",
+        "id": "007"
+      },
+      {
+        "type": "Vidéo innovation 2 LinkedIn",
+        "description": "Episode 2: Comprendre l'innovation à l'Université Paris Saclay la sensibilisation",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "https://www.linkedin.com/posts/universit-paris-saclay_comprendre-linnovation-%C3%A0-luniversit%C3%A9-paris-saclay-activity-7260584518628052994-l8Fs/?utm_source=share&utm_medium=member_desktop",
+        "id": "008"
+      },
+      {
+        "type": "Vidéo innovation 3 LinkedIn",
+        "description": "Episode 3: Comprendre l'innovation à l'Université Paris Saclay la prématuration et maturation",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "https://www.linkedin.com/posts/universit-paris-saclay_comprendre-linnovation-%C3%A0-luniversit%C3%A9-paris-saclay-activity-7264289178488606721-VqPD/?utm_source=share&utm_medium=member_desktop",
+        "id": "009"
+      },
+      {
+        "type": "Vidéo innovation 4 LinkedIn",
+        "description": "Episode 4: Comprendre l’innovation : Le prototypage, l’incubation et l’amorçage",
+        "etablissement": "Univesité Paris Saclay",
+        "id": "010"
+      },
+      {
+        "type": "Vidéo innovation 5 LinkedIn",
+        "description": "Episode 5: Comprendre l’innovation à l’Université Paris-Saclay : Les dispositifs de collaboration",
+        "etablissement": "Univesité Paris Saclay",
+        "id": "011"
+      },
+      {
+        "type": "Vidéo innovation 1 Youtube",
+        "description": "Episode 1: Comprendre l'innovation à l'Université Paris Saclay Le transfert de technologie",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "Comprendre l'innovation à l'Université Paris-Saclay - Épisode 1 : Le transfert de technologie - YouTube",
+        "id": "012"
+      },
+      {
+        "type": "Vidéo innovation 2 Youtube",
+        "description": "Episode 2: Comprendre l'innovation à l'Université Paris Saclay la sensibilisation",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "https://www.youtube.com/watch?v=6KD2T42j6Ns",
+        "id": "013"
+      },
+      {
+        "type": "Vidéo innovation 3 Youtube",
+        "description": "Episode 3: Comprendre l'innovation à l'Université Paris Saclay la prématuration et maturation",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "https://www.youtube.com/watch?v=ZbF2qsJ9ONU",
+        "id": "014"
+      },
+      {
+        "type": "Vidéo innovation 4 Youtube",
+        "description": "Episode 4: Comprendre l’innovation : Le prototypage, l’incubation et l’amorçage",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "Comprendre l’innovation - Épisode 4 : Le prototypage, l’incubation et l’amorçage",
+        "id": "015"
+      },
+      {
+        "type": "Vidéo innovation 5 Youtube",
+        "description": "Episode 5: Comprendre l’innovation à l’Université Paris-Saclay : Les dispositifs de collaboration",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "Comprendre l’innovation à l’Université Paris-Saclay - Épisode 5 : Les dispositifs de collaboration",
+        "id": "016"
+      },
+      {
+        "type": "Office de Tourisme Paris-Saclay",
+        "description": "Vidéo de présentation région Paris Saclay",
+        "etablissement": "Office de Tourisme Paris-Saclay",
+        "web": "https://www.youtube.com/watch?v=OXPz2YYy8Gw&t=1s",
+        "id": "017"
+      },
+      {
+        "type": "université Paris Saclay Design Spot",
+        "description": "Plaquette du Design Spot",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "https://www.designspot.fr/",
+        "contact": "Yoann Montenot",
+        "fonction": "Directeur",
+        "id": "018"
+      },
+      {
+        "type": "Valo trois petits points",
+        "description": "Organisation",
+        "web": "https://valo.troispetitspoints.org/",
+        "id": "019"
+      },
+      {
+        "type": "Site internet HUB PASREL",
+        "description": "« PASREL » est un mot-valise pour PAris-Saclay foRmation rEcherche & hôpitaL pour bâtir des ponts entre tous les acteurs de l’innovation en santé",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "https://www.pasrel.universite-paris-saclay.fr/",
+        "contact": "BAUDOUIN-CORNU Peggy et Laurence HOFFMANN Manager de projet",
+        "mail": "peggy.baudouin@cea.fr",
+        "fonction": "Service Hospitalier Frédéric Joliot (SHFJ) du CEA et soutenu par le CEA, le CNRS, l’Inserm et l’Université Paris-Saclay.",
+        "id": "020"
+      },
+      {
+        "type": "Deeptech tour BPI France UPSaclay",
+        "description": "Résumé edition 2022",
+        "etablissement": "BPI France",
+        "web": "DEEPTECH TOUR 2022 - PARIS SACLAY - Best of",
+        "id": "021"
+      },
+      {
+        "type": "BD Startups Deeptech",
+        "description": "Changer le monde une startup à la fois. PDF de cas réels startups",
+        "etablissement": "BPI France",
+        "web": "https://cdn-assets.inwink.com/ebd05a9d-17e6-4e7b-ba77-a701597bb189/2e9a5464-312d-4249-81e5-77916ee17bc7?sv=2018-03-28&sr=b&sig=eQK9fPC%2FSKQkglAPOtAoGBxM%2FUTx3p63RgizFeQFR0E%3D&se=9999-12-31T23%3A59%3A59Z&sp=r&rscd=inline%3B%20filename%3D%22BPI%2520BD%2520Deeptech%2520Tour%252021-22%2520Master_Digitale_230901_02-avec%2520compression.pdf%22",
+        "id": "022"
+      },
+      {
+        "type": "Innovation stratégie site web",
+        "description": "Outils pour l'innovation et la stratégie",
+        "etablissement": "Pascal Corbel",
+        "web": "Innovation-strategie.fr",
+        "id": "023"
+      },
+      {
+        "type": "Biblothèque numérique FOCUS",
+        "description": "FOCUS",
+        "web": "https://www.bibliotheques.universite-paris-saclay.fr/",
+        "id": "024"
+      },
+      {
+        "type": "Hoovers",
+        "description": "Une base de données spécialisée en veille économique et intelligence commerciale. Elle fournit des informations détaillées sur les entreprises, les tendances sectorielles et la concurrence. Idéal pour identifier des acteurs clés et analyser le marché cible.",
+        "etablissement": "Sophie Dondeyne",
+        "id": "025"
+      },
+      {
+        "type": "Xerfi",
+        "description": "Une plateforme d’analyse stratégique axée sur les données financières et sectorielles. Elle aide à comprendre l’évolution des industries et à évaluer les opportunités de marché grâce à des rapports détaillés. Attention, l'abonnement du Lumen ne couvre pas l'intégralité des études. Si une étude intéresse particulièrement un étudiant et qu'elle n'est pas intégrée dans l'abonnement, il est toujours possible de se rendre à la BNF au service du Prisme pour consultation gratuite.",
+        "etablissement": "Sophie Dondeyne",
+        "id": "026"
+      },
+      {
+        "type": "Statista",
+        "description": "Une ressource incontournable pour accéder à des statistiques, graphiques et études de marché sur divers secteurs. Parfait pour obtenir des données chiffrées et des tendances globales.",
+        "etablissement": "Sophie Dondeyne",
+        "web": "France - Statistics & Facts | Statista",
+        "id": "027"
+      },
+      {
+        "type": "ScholarVox",
+        "description": "Bibliothèque numérique spécialisée qui donne accès à des milliers de livres et ressources académiques dans divers domaines (management, entrepreneuriat, ingénierie, sciences sociales, etc.). Elle permet aux étudiants et chercheurs de consulter des ouvrages en ligne, d’effectuer des recherches ciblées et d’accéder à des analyses récentes. C’est un outil idéal pour approfondir ses connaissances, réaliser une veille stratégique ou structurer un projet entrepreneurial grâce à des références académiques et professionnelles de qualité.",
+        "etablissement": "Sophie Dondeyne",
+        "web": "Accueil - ScholarVox Université",
+        "id": "028"
+      },
+      {
+        "type": "Europresse",
+        "description": "Une base de données spécialisée dans la presse et l’information économique. Elle donne accès à des milliers d’articles issus de journaux, magazines et sources d’actualités internationales, nationales et régionales. Idéale pour une veille stratégique, elle permet aux étudiants et entrepreneurs de suivre les tendances du marché, d’analyser la concurrence et de s’informer sur les évolutions sectorielles. Grâce à ses outils de recherche avancés, Europresse facilite l’accès à des sources fiables et variées pour alimenter une étude de marché ou un projet entrepreneurial.",
+        "etablissement": "Sophie Dondeyne",
+        "web": "Accueil - Europresse",
+        "id": "029"
+      },
+      {
+        "type": "Ressources numériques LUMEN",
+        "description": "Accompagnement personnalisé pour réaliser des études de marché et des ressources numériques, responsable des services aux publics au Lumen.",
+        "etablissement": "Imelda Lemoing",
+        "web": "Lumen",
+        "mail": "imelda.lemoing@universite-paris-saclay.fr",
+        "id": "030"
+      },
+      {
+        "type": "Research Connect",
+        "description": "Avant Open4research utile pour la recherche de fonds partout dans le monde. Discover a range of funding opportunities available for universities and research institutions across the world.",
+        "web": "https://www.myresearchconnect.com/",
+        "id": "031"
+      },
+      {
+        "type": "Catalogue de formations Innovation pédagogique \"AIRTABLE\"",
+        "description": "Nombreuses formations sur l'innovation pédagogique proposées par la Direction de l'Innovation pédagogique UPSaclay",
+        "etablissement": "Hugues Cazin",
+        "web": "Airtable - Gallery",
+        "mail": "hugues.cazin@universite-paris-saclay.fr",
+        "fonction": "Responsable pôle ressources et dispositifs pédagogiques",
+        "id": "032"
+      },
+      {
+        "type": "Cartographie des lieux de l'innovation du territoire",
+        "description": "Cartographie des lieux d’innovation\net des start-up de Paris-Saclay",
+        "etablissement": "EPAPS",
+        "web": "http://paris-saclay-startup.com/map/index.html#/",
+        "contact": "Frédéric Devaivre",
+        "mail": "frederic.devaivre@oin-paris-saclay.fr",
+        "id": "033"
+      },
+      {
+        "type": "Pépite escape game",
+        "description": "Développer l'esprit d'entrerendre avec Pépite et région pays de la Loire",
+        "etablissement": "PEPITE",
+        "web": "https://www.pepite-pdl.fr/escape-game/",
+        "id": "034"
+      },
+      {
+        "type": "Observatoire des territoires",
+        "web": "Page d'accueil | L'Observatoire des Territoires",
+        "id": "035"
+      },
+      {
+        "type": "Annuaire des pôles de compétitivité",
+        "description": "Ministere de l'Economie",
+        "etablissement": "Gouvernement",
+        "web": "Annuaire des pôles de compétitivité - Page 6 sur 6 - Direction générale des Entreprises | Direction générale des Entreprises",
+        "id": "036"
+      },
+      {
+        "type": "ScanR",
+        "description": "Explorer le monde de la Recherche\net de l'Innovation françaises avec scanR",
+        "etablissement": "Gouvernement",
+        "web": "https://scanr.enseignementsup-recherche.gouv.fr/",
+        "id": "037"
+      },
+      {
+        "type": "Science Ouverte",
+        "description": "Baromètre français de la Science Ouverte",
+        "etablissement": "Gouvernement",
+        "web": "https://barometredelascienceouverte.esr.gouv.fr/",
+        "id": "038"
+      },
+      {
+        "type": "CurieXplore",
+        "description": "La plateforme d'exploration des systèmes d'enseignement supérieur, de recherche et d'innovation à l'international",
+        "etablissement": "Gouvernement",
+        "web": "https://curiexplore.enseignementsup-recherche.gouv.fr/",
+        "id": "039"
+      },
+      {
+        "type": "dataESR",
+        "description": "#dataESR vous aide à trouver les ressources en données sur\nl'enseignement supérieur, la recherche et l'innovation",
+        "etablissement": "Gouvernement",
+        "web": "https://data.esr.gouv.fr/FR/",
+        "id": "040"
+      },
+      {
+        "type": "RNSR",
+        "description": "Répertoire national des structures de recherche - RNSR",
+        "etablissement": "Gouvernement",
+        "web": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-repertoire-national-structures-recherche/information/",
+        "id": "041"
+      },
+      {
+        "type": "I LAB",
+        "description": "Lauréats I-LAB Concours national d'aide à la création d'entreprises de technologies innovantes",
+        "etablissement": "Gouvernement",
+        "web": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-laureats-concours-national-i-lab/table/",
+        "id": "042"
+      },
+      {
+        "type": "Design spot",
+        "description": "Revivre les évènements du Design Spot",
+        "etablissement": "Yoann Montenot",
+        "web": "https://www.designspot.fr/evenements",
+        "id": "043"
+      },
+      {
+        "type": "Podcast Innovation",
+        "description": "Podcast les typologies de l'innovation",
+        "etablissement": "Pascal Corbel",
+        "web": "https://www.podcastics.com/podcast/episode/les-typologies-dinnovation-367170/",
+        "id": "044"
+      },
+      {
+        "type": "Inncyclopédie",
+        "description": "Comprendre l'innovation sous toutes ses formes",
+        "web": "https://inncyclopedie.fr/",
+        "id": "045"
+      },
+      {
+        "type": "Portraits de chercheurs et chercheuses",
+        "description": "Publication et valorisation de chercheurs et chercheuses",
+        "etablissement": "Véronique Meder",
+        "web": "https://www.universite-paris-saclay.fr/recherche/portraits-de-chercheurs-et-de-chercheuses",
+        "id": "046"
+      },
+      {
+        "type": "Appels à projets recherche valorisation Université Paris Saclay",
+        "description": "Différentes sources de financement pour les porteurs au périmètre large de l'Université Paris-Saclay",
+        "etablissement": "admin.direv@universite-paris-saclay.fr",
+        "web": "https://www.universite-paris-saclay.fr/recherche/appel-projets-recherche-et-valorisation",
+        "id": "047"
+      },
+      {
+        "type": "Bibliolabs",
+        "description": "BiblioLabs est une application permettant d'agréger, de comparer et d'analyser les données bibliographiques et bibliométriques concernant la littérature scientifique et académique des structures de recherche de l'Université Paris-Saclay.",
+        "etablissement": "DIBISO",
+        "web": "Accueil - BiblioLabs",
+        "id": "048"
+      },
+      {
+        "type": "ORCID",
+        "description": "ORCID is a free, unique, persistent identifier (PID) for individuals to use as they engage in research, scholarship, and innovation activities.",
+        "web": "ORCID",
+        "id": "049"
+      },
+      {
+        "type": "HAL",
+        "description": "L’archive ouverte HAL est un réservoir de documents scientifiques, publiés ou non, produits dans le contexte de recherche scientifique et d’enseignement supérieur.",
+        "web": "HAL - Université Paris-Saclay | Université Paris-Saclay",
+        "id": "050"
+      },
+      {
+        "type": "Design spot",
+        "description": "12/11/25 au 13/03/26 France design Impact Award : 40 projets de design pour transformer le monde",
+        "etablissement": "Yoann Montenot",
+        "web": "France Design Impact Award",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "id": "051"
+      },
+      {
+        "type": "Portraits de chercheurs et de chercheuses",
+        "description": "Présente les portrais de chercheurs et chercheuses de l'université Paris-Saclay et de son écosystème",
+        "etablissement": "Véronique Meder",
+        "web": "https://www.universite-paris-saclay.fr/recherche/portraits-de-chercheurs-et-de-chercheuses",
+        "id": "052"
+      },
+      {
+        "type": "Design spot Exposition",
+        "description": "9/02 au 12/04/26 L’énergie du Vivant. Raconter la bio-inspiration : de la recherche au grand public. Quand les stratégies du vivant éclairent les solutions de demain",
+        "etablissement": "Yoann Montenot",
+        "web": "https://www.designspot.fr/evenements/lenergie-du-vivant",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "id": "053"
+      },
+      {
+        "type": "Design spot Exposition",
+        "description": "Événement de clôture",
+        "etablissement": "2026-04-02",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "id": "054"
+      },
+      {
+        "type": "Design spot Exposition",
+        "description": "Table ronde",
+        "contact": "Yoann Montenot",
+        "mail": "yoann.montenot@universite-paris-saclay.fr",
+        "id": "055"
+      },
+      {
+        "type": "Maison des Sciences sociales et des Humanités Paris-Saclay",
+        "description": "Créée le 1er janvier 2015, (UAR3683) est une unité d’appui et de recherche dédiée à l’avancement des sciences humaines et sociales. Située au cœur du plateau de Saclay, elle a pour objectif de développer l’innovation, le dialogue et la collaboration entre chercheurs de diverses disciplines scientifiques.",
+        "web": "https://msh-paris-saclay.fr/",
+        "contact": "Formulaire de contact",
+        "mail": "https://msh-paris-saclay.fr/contact/",
+        "id": "056"
+      },
+      {
+        "type": "Office quebéquois de la langue française",
+        "description": "Portail permettant la traduction de termes scientifiques du fraçais à l'anglais",
+        "etablissement": "Québec",
+        "web": "agroalimentaire | GDT",
+        "contact": "Monica Henao",
+        "mail": "formation.innovation@universite-paris-saclay.fr",
+        "id": "057"
+      },
+      {
+        "type": "De la recherche à la startup",
+        "description": "Video témoignage de Bernard Yannou, Directeur adjoint de la recherche Centrale Supelec, en charge de l'innovation",
+        "etablissement": "IPSA",
+        "web": "PlayPlay",
+        "contact": "Bernard Yannou",
+        "mail": "bernard.yannou@centralesupelec.fr",
+        "id": "058"
+      },
+      {
+        "type": "Academia.edu met en réseau les chercheurs",
+        "description": "Amplify your research.\nPublish and disseminate your work, track your impact, and discover new research.",
+        "etablissement": "ACADEMIA.EDU",
+        "web": "https://www.academia.edu/",
+        "contact": "Monica Henao",
+        "mail": "formation.innovation@universite-paris-saclay.fr",
+        "id": "059"
+      },
+      {
+        "type": "ARISTOTE IA",
+        "description": "Aristote, une IA au service de l'enseignement supérieur",
+        "etablissement": "Centrale Supelec",
+        "web": "Aristote, une IA au service de l'enseignement supérieur | CentraleSupélec",
+        "contact": "Bernard Yannou",
+        "mail": "bernard.yannou@centralesupelec.fr",
+        "id": "060"
+      },
+      {
+        "type": "Podcast CNRS",
+        "description": "Podacast sur le fil de l'innovation",
+        "etablissement": "CNRS",
+        "web": "Podcast | Sur le fil de l'innovation | CNRS",
+        "contact": "David Néron",
+        "id": "061"
+      },
+      {
+        "type": "Choisir sa formation Université Paris Saclay",
+        "description": "Plateforme du premier cycle au doctorat, en passant par des programmes de grandes écoles, l’Université Paris-Saclay déploie une offre de formation sur un large spectre de disciplines, au service de la réussite étudiante et de l'insertion professionnelle.",
+        "etablissement": "Univesité Paris Saclay",
+        "web": "Choisir sa formation | Université Paris-Saclay",
+        "contact": "Sylvie Cyprien",
+        "mail": "relations.entreprises@universite-paris-saclay.fr",
+        "id": "062"
+      }
+    ],
+    "bibliographie": [
+      {
+        "titre": "Qu'est ce que l'innovation?",
+        "auteur": "Joanna de Bruijn",
+        "annee": 2015,
+        "web": "https://fr.slideshare.net/slideshow/global-innovation-43184763/43184763#22",
+        "id": "001"
+      },
+      {
+        "titre": "Les nouveaux entrepreneurs du public : de la recherche académique à la création d'entreprises",
+        "auteur": "Raffini, Daphnée (Auteur) ; Tourin, Arnaud, (Auteur) ; Fink, Mathias",
+        "annee": 2023,
+        "type": "Livre",
+        "web": "https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/fulldisplay?docid=33PUP_Alma_UNIMARC21274524540006051&context=L&vid=33UDPS_VU1&lang=fr_FR&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,le%20nouveaux%20entrepreneurs%20du%20public&offset=0",
+        "localisation": "BU Orsay",
+        "id": "002"
+      },
+      {
+        "titre": "La ludopédagogie, acteurs et idéologie",
+        "auteur": "Michel Lavigne",
+        "annee": 2022,
+        "type": "Revue : Educations",
+        "web": "https://www.openscience.fr/La-ludopedagogie-acteurs-et-ideologie",
+        "localisation": "BU Orsay",
+        "id": "003"
+      },
+      {
+        "titre": "Recherche, formation, innovation : quel rôle pour les Grandes Ecoles ?",
+        "auteur": "Levy Jacques",
+        "annee": 1988,
+        "type": "Conférence",
+        "web": "https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/fulldisplay?docid=33PUP_Alma_UNIMARC21141108180006051&context=L&vid=33UDPS_VU1&lang=fr_FR&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,formation%20innovation&offset=0",
+        "localisation": "BU Orsay",
+        "id": "004"
+      },
+      {
+        "titre": "Former Avec Le Funny Learning : De La Formation à La Facilitation : Transformez Votre PéDagogie",
+        "auteur": "Boussuat, Brigitte., and Jean Lefèbvre",
+        "annee": 2020,
+        "type": "Print. Hors Collection",
+        "localisation": "BU Orsay",
+        "id": "005"
+      },
+      {
+        "titre": "Management Interculturel. Comprendre et gérer la diversité culturelle",
+        "auteur": "Ulrike Mayrhofer",
+        "annee": 2017,
+        "type": "Livre",
+        "web": "Lumen 658,4",
+        "notes": "10 études de cas réels",
+        "localisation": "LUMEN",
+        "id": "006"
+      },
+      {
+        "titre": "Coopération internationale en R&D : les effets de la distance sur le choix de pays partenaires",
+        "auteur": "Angué K et Mayrhofer U",
+        "annee": 2010,
+        "type": "Revue",
+        "web": "référence de N, 6",
+        "localisation": "ND",
+        "id": "007"
+      },
+      {
+        "titre": "Management interculturel et styles d'apprentissage",
+        "auteur": "Barmeyer C Meier O",
+        "annee": 2006,
+        "type": "Presses de l'Université de Laval",
+        "web": "Ref N 6",
+        "localisation": "ND",
+        "id": "008"
+      },
+      {
+        "titre": "Recherche, développement & innovation - Témoignages et stratégies pour catalyser croissance et industrialisation",
+        "auteur": "ANRT et Onepoint",
+        "annee": 2024,
+        "type": "Livre",
+        "web": "Ouvrage_R&DI_Onepoint_ANRT_2024.pdf",
+        "id": "009"
+      },
+      {
+        "titre": "La répétition espacée : Comment se souvenir de tout",
+        "auteur": "Nicky Case",
+        "annee": 2018,
+        "type": "Outil numérique",
+        "web": "https://ncase.me/remember/fr.html",
+        "notes": "Outil intéractif sur la mémoire et apprentissage",
+        "localisation": "ND",
+        "id": "010"
+      },
+      {
+        "titre": "Mieux apprendre et étudier : les (vraies) techniques scientifiques",
+        "auteur": "David Louapre",
+        "annee": 2023,
+        "type": "Vidéo",
+        "web": "https://www.youtube.com/watch?v=RVB3PBPxMWg",
+        "localisation": "ND",
+        "id": "011"
+      },
+      {
+        "titre": "La méthode des cartes mentales",
+        "auteur": "David Louapre",
+        "annee": 2023,
+        "type": "Vidéo",
+        "web": "https://scienceetonnante.com/2023/09/15/la-methode-des-cartes-mentales/",
+        "notes": "Blog avec vidéo",
+        "localisation": "ND",
+        "id": "012"
+      },
+      {
+        "titre": "Que sais-je : Le Design",
+        "auteur": "Stéphane Vial",
+        "annee": 2015,
+        "type": "Livre",
+        "web": "https://www.quesaisje.com/accueil",
+        "isbn": "978-2-13-062043-3",
+        "localisation": "LUMEN",
+        "id": "013"
+      },
+      {
+        "titre": "Trouver des informations pour faire son étude de marché",
+        "auteur": "BPI France",
+        "annee": 2023,
+        "type": "Site web",
+        "web": "https://bpifrance-creation.fr/encyclopedie/letude-marche/comment-faire-son-etude-marche/trouver-informations-faire-son-etude",
+        "notes": "Pass créa de BPI France",
+        "localisation": "Web",
+        "id": "014"
+      },
+      {
+        "titre": "Intrapreneuriat Innovation et croissance",
+        "auteur": "Véronique Bouchard",
+        "annee": 2009,
+        "type": "Livre",
+        "isbn": "978-2-10-052238-5",
+        "localisation": "LUMEN",
+        "id": "015"
+      },
+      {
+        "titre": "Ces créateurs d'entreprises innovantes. Quand doctorat se conjugue avec entrepreneuriat",
+        "auteur": "Clarisse Angelier, Jeanne Courouble",
+        "annee": 2012,
+        "type": "Livre",
+        "isbn": "978-2-212-55271-3",
+        "localisation": "LUMEN",
+        "id": "016"
+      },
+      {
+        "titre": "Les 100 mots de l'éducation",
+        "auteur": "Patrick Rayou, Agnès van Zanten",
+        "annee": 2011,
+        "type": "Livre",
+        "isbn": "978-2-13-058260-1",
+        "localisation": "LUMEN",
+        "id": "017"
+      },
+      {
+        "titre": "Gestion de l'innovation: comprendre le processus de l'innovation pour le piloter",
+        "auteur": "Thomas Loilier, Albéric Tellier",
+        "annee": 2013,
+        "type": "Livre",
+        "isbn": "978-2-84769-508-3",
+        "localisation": "BU Orsay",
+        "id": "018"
+      },
+      {
+        "titre": "Le marketing de l'innovation. Concevoir et lancer de nouveaux produits et services 4è Edition",
+        "auteur": "Linda Hamdi-Kidar, Aurélie Hemonnet, Emmanuelle Le Nagard, Delphine Manceau, Sophie Morin-Delerm",
+        "annee": 2022,
+        "type": "Livre",
+        "isbn": "978-2-10-084092-2",
+        "localisation": "BU Orsay",
+        "id": "019"
+      },
+      {
+        "titre": "Perspective en education et formation. Approche didactique de l'interdisciplinarité",
+        "auteur": "Alain Maingais, Barbara Dufour, Gérard Fourez",
+        "annee": 2002,
+        "type": "Livre",
+        "isbn": "2-8041-3839-9",
+        "localisation": "BU Orsay",
+        "id": "020"
+      },
+      {
+        "titre": "Management de l'innovation 2è Edition",
+        "auteur": "Richard Soparnot, Eric Stevens",
+        "annee": 2007,
+        "type": "Livre",
+        "isbn": "978-2-10-051079-5",
+        "localisation": "BU Orsay",
+        "id": "021"
+      },
+      {
+        "titre": "100 idées pour faire classe autrement ou comment les pédagogies coopératives changent la vie de l'école",
+        "auteur": "Christophe Charpiot, Fahima Melizi, Cédric Gueyraud",
+        "annee": 2020,
+        "type": "Livre",
+        "isbn": "978-2-35-345-221-7",
+        "localisation": "BU Orsay",
+        "id": "022"
+      },
+      {
+        "titre": "L'innovation pédagogique. de la théorie à la pratique",
+        "auteur": "Isabelle Capron Puozzo, Aleksandra Vuichard",
+        "annee": 2022,
+        "type": "Livre",
+        "isbn": "978-2-88930-477-6",
+        "localisation": "BU Orsay",
+        "id": "023"
+      },
+      {
+        "titre": "Management de l'innovation. Enjeux principes et méthodes",
+        "auteur": "Claudine Gay, Bérangère L. Szostak",
+        "annee": 2022,
+        "type": "Livre",
+        "isbn": "978-2-10-083708-3",
+        "localisation": "BU Orsay",
+        "id": "024"
+      },
+      {
+        "titre": "La jungle de l'innovation Comment survivre et prospérer",
+        "auteur": "Rémy Maniak, Nicolas Mottis",
+        "annee": 2021,
+        "type": "Livre",
+        "isbn": "978-2-10-081321-6",
+        "localisation": "Collection personnelle",
+        "id": "025"
+      },
+      {
+        "titre": "Créativité et innovation. Intelligence collective au service du management de projets",
+        "auteur": "Tayeb Louafa, Francis-Luc Perret",
+        "annee": 2008,
+        "type": "Livre",
+        "isbn": "978-2-88074-721-3",
+        "localisation": "BU Orsay",
+        "id": "026"
+      },
+      {
+        "titre": "Disenando la propuesta de Valor",
+        "auteur": "Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith",
+        "annee": 2015,
+        "type": "Livre",
+        "isbn": "978-958-42-4660-8",
+        "localisation": "Collection personnelle",
+        "id": "027"
+      },
+      {
+        "titre": "Management de l'innovation",
+        "auteur": "Séverine Le Loarne, Sylvie Blanco",
+        "annee": 2011,
+        "type": "Livre",
+        "isbn": "978-2-7440-7585-8",
+        "localisation": "BU Orsay",
+        "id": "028"
+      },
+      {
+        "titre": "La boite à outils pour animer vos réunions",
+        "auteur": "Florence Gillet, Laurent Maimi",
+        "annee": 2020,
+        "type": "Livre",
+        "isbn": "978-2-10-080797-0",
+        "localisation": "LUMEN",
+        "id": "029"
+      },
+      {
+        "titre": "L'innovation pour les nuls",
+        "auteur": "Jerôme Lafont",
+        "id": "030"
+      },
+      {
+        "titre": "The innovators solution",
+        "auteur": "Clayton M Christensen, Michael E. Raynor",
+        "annee": 2003,
+        "type": "Livre",
+        "isbn": "978-1-57851-852-4",
+        "localisation": "LUMEN",
+        "id": "031"
+      },
+      {
+        "titre": "8 Priorités pour dynamiser l'innovation en France",
+        "auteur": "Think Tank Innovation Association des Centraliens",
+        "annee": 2011,
+        "type": "Livre",
+        "isbn": "978-2-200-27667-6",
+        "localisation": "LUMEN",
+        "id": "032"
+      }
+    ],
+    "financements": [
+      {
+        "id": "001",
+        "niveau": "Local",
+        "organisme": "Université Paris-Saclay",
+        "lien": "https://www.universite-paris-saclay.fr/recherche/appel-projets-recherche-et-valorisation"
+      },
+      {
+        "id": "002",
+        "niveau": "Local",
+        "organisme": "SATT PARIS SACLAY",
+        "lien": "La SATT Paris Saclay œuvre pour les chercheurs"
+      },
+      {
+        "id": "003",
+        "niveau": "Local",
+        "organisme": "IncubAlliance",
+        "lien": "https://www.incuballiance.fr/programmes-accompagnement"
+      },
+      {
+        "id": "004",
+        "niveau": "Île-de-France (régional / local)",
+        "organisme": "Région Île-de-France – Aides et appels à projets (toutes aides incluses)",
+        "lien": "https://www.iledefrance.fr/aides-et-appels-a-projets"
+      },
+      {
+        "id": "005",
+        "niveau": "Île-de-France (régional / local)",
+        "organisme": "Région Île-de-France – Grands projets de recherche / RDI (FEDER)",
+        "lien": "https://www.europeidf.fr/jai-un-projet/appels-a-projets/grands-projets-de-recherche-developpement-et-innovation-lies-aux"
+      },
+      {
+        "id": "006",
+        "niveau": "Île-de-France (régional / local)",
+        "organisme": "DIMs et programmes de financement thématiques (ex. DIM ELICIT)",
+        "lien": "https://dim-elicit.fr/en/calls-for-projects/"
+      },
+      {
+        "id": "007",
+        "niveau": "Île-de-France (régional / local)",
+        "organisme": "Programme Paris Region PhD – allocations doctorales",
+        "lien": "https://www.iledefrance.fr/aides-et-appels-a-projets/paris-region-phd-2025"
+      },
+      {
+        "id": "008",
+        "niveau": "France",
+        "organisme": "ANR – Agence nationale de la recherche (appels en cours & à venir)",
+        "lien": "https://anr.fr/fr/france-2030/appels/"
+      },
+      {
+        "id": "009",
+        "niveau": "France",
+        "organisme": "ANR",
+        "lien": "https://anr.fr/fr/detail/call/aapg-appel-a-projets-generique-2026/"
+      },
+      {
+        "id": "010",
+        "niveau": "France",
+        "organisme": "BPI France",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours"
+      },
+      {
+        "id": "011",
+        "niveau": "France",
+        "organisme": "ANRT CIFRE",
+        "lien": "https://offres-et-candidatures-cifre.anrt.asso.fr/"
+      },
+      {
+        "id": "012",
+        "niveau": "France",
+        "organisme": "Institut Universitaire de France",
+        "lien": "https://www.iufrance.fr/liuf-vous-donne-droit-a.html"
+      },
+      {
+        "id": "013",
+        "niveau": "France",
+        "organisme": "Portail Europe en France – appels à projets cofinancés",
+        "lien": "Trouver une aide pour financer son projet | L'Europe s'engage en France, le portail des Fonds européens"
+      },
+      {
+        "id": "014",
+        "niveau": "France",
+        "organisme": "Veille multi-sources sur les appels en France.",
+        "lien": "https://www.appelsprojetsrecherche.fr/"
+      },
+      {
+        "id": "015",
+        "niveau": "Europe (UE)",
+        "organisme": "Programme Horizon Europe – financement R&I (principal cadre)",
+        "lien": "Homepage - Research and innovation - European Commission"
+      },
+      {
+        "id": "016",
+        "niveau": "Europe (UE)",
+        "organisme": "Portail des appels européens (fonds et programmes)",
+        "lien": "Funding opportunities - Research and innovation - European Commission"
+      },
+      {
+        "id": "017",
+        "niveau": "Europe (UE)",
+        "organisme": "Marie Skłodowska-Curie Actions (bourses mobilité & recherche)",
+        "lien": "Funding - Marie Skłodowska-Curie Actions"
+      },
+      {
+        "id": "018",
+        "niveau": "Europe (UE)",
+        "organisme": "European Research Council (ERC) – subventions de pointe",
+        "lien": "Apply for an ERC Grant – Secure Funding for Frontier Research"
+      },
+      {
+        "id": "019",
+        "niveau": "Europe (UE)",
+        "organisme": "ERASMUS +",
+        "lien": "Accueil - Erasmus+"
+      },
+      {
+        "id": "020",
+        "niveau": "International",
+        "organisme": "Grant GOV -United States government",
+        "lien": "https://simpler.grants.gov/search?utm_source=Grants.gov"
+      },
+      {
+        "id": "021",
+        "niveau": "International",
+        "organisme": "NIH (National Institutes of Health, USA) – financements internationaux",
+        "lien": "https://grants.nih.gov/"
+      }
+    ],
+    "seFormerAvenir": [
+      {
+        "id": "001",
+        "action": "Action 1",
+        "programme": "Calendrier Formation Entrepreneuriat Deeptech",
+        "contact": "Roberta Camera",
+        "lien": "https://adum.fr/script/catalogue.pl?site=psaclay&cat=PSaclayEntrepre",
+        "rythme": "Programme annuel"
+      },
+      {
+        "id": "002",
+        "action": "Action 2",
+        "programme": "Programme Oser pour innover",
+        "contact": "Christophe Dubois, Christelle Hanoun, Rita Noelle Moussa, Monica Henao",
+        "lien": "Inscription programme OSER POUR INNOVER – Fill out form",
+        "rythme": "Programme annuel"
+      },
+      {
+        "id": "003",
+        "action": "Action 3",
+        "programme": "Programme formation manager entreprise",
+        "contact": "Jeannie Bisson",
+        "lien": "IFA",
+        "rythme": "Sur appel à candidatures"
+      },
+      {
+        "id": "004",
+        "action": "Institut de formation des personnels et observatoire de compétences",
+        "programme": "Programme de formations de l'Institut",
+        "contact": "IFPOC",
+        "lien": "https://geforp.esup-portail.org/program/myprogram",
+        "rythme": "Programme annuel"
+      },
+      {
+        "id": "005",
+        "action": "Formation intelligence Artificielle",
+        "programme": "Brevet AI",
+        "contact": "DATAIA",
+        "lien": "inscription-brevetai@ens-paris-saclay.fr"
+      },
+      {
+        "id": "006",
+        "action": "Développement soutenable",
+        "programme": "Demain autrement"
+      }
+    ],
+    "etablissementsValo": [
+      {
+        "id": "001",
+        "etablissement": "AgroParisTech",
+        "web": "AgroParisTech"
+      },
+      {
+        "id": "002",
+        "etablissement": "Centrale Supélec",
+        "web": "Centrale Supélec"
+      },
+      {
+        "id": "003",
+        "etablissement": "ENS Paris-Saclay",
+        "web": "ENS Paris-Saclay"
+      },
+      {
+        "id": "004",
+        "etablissement": "CNRS",
+        "web": "CNRS"
+      },
+      {
+        "id": "005",
+        "etablissement": "INRAE",
+        "web": "INRAE"
+      },
+      {
+        "id": "006",
+        "etablissement": "INRIA",
+        "web": "Inria"
+      },
+      {
+        "id": "007",
+        "etablissement": "INSERM",
+        "web": "https://www.inserm.fr/"
+      },
+      {
+        "id": "008",
+        "etablissement": "Institut d'Optique Graduate School",
+        "web": "IOGS"
+      },
+      {
+        "id": "009",
+        "etablissement": "Université d'Evry Paris-Saclay",
+        "web": "Université d'Évry"
+      },
+      {
+        "id": "010",
+        "etablissement": "Université Paris-Saclay",
+        "web": "Université Paris-Saclay"
+      },
+      {
+        "id": "011",
+        "etablissement": "Université Versailles Saint-Quentin en Yvelines",
+        "web": "Université de Versailles Saint-Quentin-en-Yvelines",
+        "contactValo": "valorisation@uvsq.fr"
+      },
+      {
+        "id": "012",
+        "etablissement": "SATT PARIS SACLAY",
+        "web": "https://satt-paris-saclay.fr/"
+      },
+      {
+        "id": "013",
+        "etablissement": "IncubAlliance Paris-Saclay",
+        "web": "https://www.incuballiance.fr/"
+      },
+      {
+        "id": "014",
+        "etablissement": "CEA",
+        "web": "CEA"
+      },
+      {
+        "id": "015",
+        "etablissement": "Onera",
+        "web": "Onera"
+      },
+      {
+        "id": "016",
+        "etablissement": "IHES",
+        "web": "IHES"
+      }
+    ]
+  }
+}
