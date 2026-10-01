@@ -198,7 +198,9 @@ function header() {
     <header class="site-header">
       <div class="header-inner">
         <a class="brand-lockup" href="#" data-go="home">
-          <img src="assets/logo-upsaclay.png" alt="Université Paris-Saclay" />
+          <img class="logo-ups" src="assets/logo-upsaclay.png" alt="Université Paris-Saclay" />
+          <span class="brand-sep" aria-hidden="true"></span>
+          <img class="logo-oser" src="assets/logo-oser-signature.png" alt="Oser pour innover" />
           <span>Catalogue de ressources innovation &amp; entrepreneuriat</span>
         </a>
         <nav class="nav">

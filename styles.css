@@ -53,17 +53,28 @@ a { color: var(--prune); }
   gap: 16px;
   text-decoration: none;
   color: inherit;
-  min-width: 220px;
 }
 
-.brand-lockup img {
+.brand-lockup .logo-ups {
   width: 148px;
   height: auto;
 }
 
-.brand-lockup span {
+.brand-sep {
+  width: 1px;
+  height: 42px;
+  background: var(--silver);
+  flex-shrink: 0;
+}
+
+.brand-lockup .logo-oser {
+  width: 168px;
+  height: auto;
+}
+
+.brand-lockup span:not(.brand-sep) {
   display: block;
-  max-width: 160px;
+  max-width: 150px;
   font-size: 12px;
   font-weight: 700;
   line-height: 1.35;
