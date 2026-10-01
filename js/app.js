@@ -193,15 +193,35 @@ function restoreSeed() {
   go("home");
 }
 
+function wordmarkHtml(extraClass = "") {
+  return `
+    <span class="wordmark ${extraClass}" aria-label="Compas Inno">
+      <span class="wordmark-name" aria-hidden="true">C<span class="wordmark-o">${compassSvg()}</span>mpas</span>
+      <span class="wordmark-sub" aria-hidden="true">Inno</span>
+    </span>`;
+}
+
+function compassSvg() {
+  return `<svg class="wordmark-rose" viewBox="0 0 32 32" focusable="false">
+      <circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="1.7"/>
+      <polygon points="16,2.5 18.4,14.2 13.6,14.2" fill="#f37320"/>
+      <polygon points="16,29.5 18.4,17.8 13.6,17.8" fill="currentColor"/>
+      <polygon points="29.5,16 17.8,18.4 17.8,13.6" fill="currentColor"/>
+      <polygon points="2.5,16 14.2,18.4 14.2,13.6" fill="currentColor"/>
+      <circle cx="16" cy="16" r="2.15" fill="#c60b46"/>
+    </svg>`;
+}
+
 function header() {
   return `
     <header class="site-header">
       <div class="header-inner">
-        <a class="brand-lockup" href="#" data-go="home">
+        <a class="brand-lockup" href="#" data-go="home" aria-label="Accueil Compas Inno">
           <img class="logo-ups" src="assets/logo-upsaclay.png" alt="Université Paris-Saclay" />
           <span class="brand-sep" aria-hidden="true"></span>
           <img class="logo-oser" src="assets/logo-oser-signature.png" alt="Oser pour innover" />
-          <span>Catalogue de ressources innovation &amp; entrepreneuriat</span>
+          <span class="brand-sep" aria-hidden="true"></span>
+          ${wordmarkHtml()}
         </a>
         <nav class="nav">
           <button data-go="home" class="${state.page === "home" ? "active" : ""}">Accueil</button>
@@ -218,8 +238,8 @@ function footer() {
     <footer class="site-footer">
       <div class="wrap footer-grid">
         <div>
-          <strong>Université Paris-Saclay</strong>
-          <p>Pôle universitaire d’innovation — ressources pour concevoir et animer les formations à l’innovation et à l’entrepreneuriat.</p>
+          ${wordmarkHtml("wordmark--on-dark")}
+          <p>Le compagnon pour s’orienter parmi les ressources d’innovation et d’entrepreneuriat — Pôle universitaire d’innovation.</p>
         </div>
         <div>
           <strong>Contact</strong>
@@ -246,8 +266,9 @@ function renderHome() {
   return `
     <section class="wrap hero">
       <p class="kicker">Pôle universitaire d’innovation</p>
-      <h1>Trouver la bonne ressource, au bon moment.</h1>
-      <p>Formations, lieux, équipements, formateurs, outils et financements du périmètre Paris-Saclay — un portail unique pour concevoir vos actions d’innovation et d’entrepreneuriat.</p>
+      ${wordmarkHtml("wordmark--hero")}
+      <h1>Le compagnon pour s’orienter.</h1>
+      <p>Trouver la bonne ressource, au bon moment — formations, lieux, personnes, outils et financements du périmètre Paris-Saclay.</p>
       <form class="search-bar" data-search>
         <input name="q" value="${escapeHtml(state.query)}" placeholder="Une formation, un fablab, un appel à projets, un contact…" />
         <button type="submit">Rechercher</button>
@@ -275,8 +296,8 @@ function renderHome() {
       </div>
     </section>
     <section class="wrap section">
-      <h2>À quoi sert ce catalogue</h2>
-      <p style="max-width:70ch;color:var(--slate);line-height:1.55">Il ne remplace pas Plugin Labs, qui cartographie laboratoires et plateformes. Ici, on recense ce dont les équipes PUI ont besoin pour <strong>former</strong> : dispositifs pédagogiques, personnes, lieux, outils et leviers de financement.</p>
+      <h2>À quoi sert Compas Inno</h2>
+      <p style="max-width:70ch;color:var(--slate);line-height:1.55">C’est un <strong>compagnon</strong> pour s’orienter : pas un annuaire de laboratoires, mais le recueil de ce dont on a besoin pour <strong>former et innover</strong> — dispositifs, personnes, lieux, outils et leviers de financement.</p>
     </section>`;
 }
 
@@ -291,11 +312,19 @@ function renderExplorer() {
     return PARCOURS.find((p) => p.id === state.parcours)?.collections.includes(c.id);
   });
   const parcours = PARCOURS.find((p) => p.id === state.parcours);
+  const typeCol = COLLECTION_BY_ID[state.typeId];
+  const kicker = parcours ? `${parcours.kicker} · ${parcours.label}` : typeCol ? "Type de ressource" : "Explorer";
+  const title = parcours ? parcours.label : typeCol ? typeCol.label : "Toutes les ressources";
+  const lead = parcours
+    ? parcours.lead
+    : typeCol
+      ? "Fiches de ce type. Vous pouvez affiner par thématique ou établissement."
+      : "Filtrez par besoin, type de ressource ou thématique.";
   return `
     <div class="wrap page-head">
-      <p class="kicker">${parcours ? parcours.kicker + " · " + parcours.label : "Explorer"}</p>
-      <h1>${parcours ? escapeHtml(parcours.label) : "Toutes les ressources"}</h1>
-      <p>${parcours ? escapeHtml(parcours.lead) : "Filtrez par besoin, type de ressource ou thématique."}</p>
+      <p class="kicker">${escapeHtml(kicker)}</p>
+      <h1>${escapeHtml(title)}</h1>
+      <p>${escapeHtml(lead)}</p>
     </div>
     <div class="wrap filters-layout">
       <aside class="filters">
@@ -450,16 +479,20 @@ function renderOrienter() {
 function renderApropos() {
   return `
     <div class="wrap page-head">
-      <p class="kicker">Le catalogue</p>
-      <h1>Un outil PUI, pas un annuaire de laboratoires</h1>
-      <p>Plugin Labs cartographie les compétences scientifiques du territoire. Ce catalogue recense les ressources pour former à l’innovation et à l’entrepreneuriat.</p>
+      <p class="kicker">Compas Inno</p>
+      <h1>Les types de ressources</h1>
+      <p>Les familles de fiches pour s’orienter : formations, accompagnement, lieux, outils, financements. Cliquez un type pour ouvrir la liste correspondante dans Explorer.</p>
     </div>
     <div class="wrap section">
       <div class="defs">
         ${state.catalog.definitions
-          .map(
-            (d) => `<div class="def"><strong>${escapeHtml(d.libelle)}</strong><span>${escapeHtml(d.texte)}</span></div>`
-          )
+          .map((d) => {
+            const col = COLLECTION_BY_ID[d.cle];
+            const title = col
+              ? `<button type="button" class="def-link" data-type="${escapeHtml(d.cle)}">${escapeHtml(d.libelle)}</button>`
+              : `<strong>${escapeHtml(d.libelle)}</strong>`;
+            return `<div class="def">${title}<span>${escapeHtml(d.texte)}</span></div>`;
+          })
           .join("")}
       </div>
     </div>`;
@@ -495,6 +528,18 @@ function bind() {
   document.querySelectorAll("[data-parcours]").forEach((el) => {
     el.addEventListener("click", () => {
       go("explorer", { parcours: el.dataset.parcours, typeId: "", query: state.page === "home" ? "" : state.query });
+    });
+  });
+
+  document.querySelectorAll("[data-type]").forEach((el) => {
+    el.addEventListener("click", () => {
+      go("explorer", {
+        typeId: el.dataset.type,
+        parcours: "",
+        themeId: "",
+        etablissement: "",
+        query: "",
+      });
     });
   });
 
